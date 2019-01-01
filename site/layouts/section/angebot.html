@@ -1,8 +1,13 @@
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+{{ partial "short-text" .Params.blurb}}
 
 <div class="mw7 center ph3 pt4">
+  
+  <!-- <div class="cms mw6">
+    {{.Content}}
+  </div> -->
 
   {{ range $index, $element := .Params.values }}
     {{ if modBool $index 2 }}

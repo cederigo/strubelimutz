@@ -1,19 +1,18 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: "Kontakt"
+logo: "/img/strubelimutz.gif"
+email: mail@strubelimutz.ch
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Adresse
+    text: "Spielgruppe Strubelimutz, Sonnenweg 44, 3073 Gümligen"
+  - heading: Kontakt Innenspielgruppe / Mittagstisch
+    text: "Eva Aeschlimann, Tannackerstrasse 55, 3073 Gümligen, Telefon 031 951 94 45"
+  - heading: Kontakt Waldspielgruppe
+    text: "Tamara Zbinden, Telefon 079 771 48 64"
+  - heading: Kontakt Erlebnisnachmittag
+    text: "Michaela Jordi, Oberholzweg 12, 3067 Boll, Telefon 076 329 85 17"
+  - heading: Natel Strubelimutz (nur für dringende Fälle)
+    text: "079 284 77 26"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Wir freuen uns über deine Kontaktaufnahme!

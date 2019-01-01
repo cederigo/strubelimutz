@@ -7,6 +7,22 @@
   <div class="ph3-m w-50-m">
     <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
     <p>{{.text}}</p>
+    {{ range.sections }}
+    <h4 class="f4 b">{{.heading}}</h4>
+    {{ if .text }}
+      <p>{{.text}}</p>
+    {{end}}
+    {{ if .list}}
+    <ul class="list">
+      {{ range.list }}
+      <li>{{.}}</li>
+      {{ end }}
+    </ul>
+    {{ end }}
+    {{ end }}
+    {{if .buttonLink}}
+      <a href="{{.buttonLink}}" class="btn raise">Mehr Infos</a>
+    {{end}}
   </div>
 
 </div>

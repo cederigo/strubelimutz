@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="mw6 center ph3 pt4 pb4">
+  <div class="cms mw6">
+    {{.Content}}
+  </div>
+
+</div>
+
+{{ end }}
