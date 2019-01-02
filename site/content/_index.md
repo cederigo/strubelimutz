@@ -9,10 +9,9 @@ blurb:
     in diese Richtung mir zukommen lassen ;-)
 intro:
   heading: Was wir bieten.
-  text: >-
-    Spass für Klein und Gross. (Auch hier etwas Text)
+  text: Spass für Klein und Gross. (Auch hier etwas Text)
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/illustrations-meeting-space.svg
     text: >-
       Bild und Text für Innenspielgruppe. Kurz halten, für mehr Infos soll der 
       Benutzer auf "Unser Angebot" klicken.
@@ -23,6 +22,6 @@ products:
 values:
   heading: Wer wir sind.
   image: /img/home-about-section.jpg
-  text: >-
-    Bild und Text zum Team. Ein Gruppenfoto wäre hier toll!
+  text: Bild und Text zum Team. Ein Gruppenfoto wäre hier toll!
 ---
+
