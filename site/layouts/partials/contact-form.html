@@ -7,7 +7,7 @@
       <!-- Name -->
       <div class="ph1-l w-50-l">
         <fieldset>
-          <input type="text" id="name" placeholder="Name" class="w-100 mb2" />
+          <input type="text" required id="name" name="name" placeholder="Name" class="w-100 mb2" />
           <label for="name">Name</label>
         </fieldset>
       </div>
@@ -15,8 +15,10 @@
       <div class="ph1-l w-50-l">
         <fieldset>
           <input
+            required
             type="email"
             id="email"
+            name="email"
             placeholder="Email"
             class="w-100 mb2"
           />
@@ -28,7 +30,8 @@
     <!-- Message -->
     <fieldset>
       <textarea
-        name="name"
+        name="message"
+        required
         placeholder="Deine Nachricht"
         rows="8"
         cols="80"
