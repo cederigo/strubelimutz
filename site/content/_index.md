@@ -22,6 +22,7 @@ products:
       Benutzer auf "Unser Angebot" klicken.
 values:
   heading: Wer wir sind.
+  image: /img/home-about-section.jpg
   text: >-
     Bild und Text zum Team. Ein Gruppenfoto wäre hier toll!
 ---
