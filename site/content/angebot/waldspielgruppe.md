@@ -20,7 +20,7 @@ Bei Abwesenheit wird kein Geld zurückerstattet.
 
 auf weichem Moos einer Geschichte lauschen, gemeinsam Feuer machen und bräteln.
 
-Die Wald fördert Fantasie, Kreativität und das Selbstvertrauen der Kleinen. 
+Der Wald fördert Fantasie, Kreativität und das Selbstvertrauen der Kleinen. 
 Mit seiner vielfältigen Pflanzen- und Tierwelt weckt er Neugier, Entdeckungsfreude und Wissensdrang.
 
 Weitere Auskünfte erteilt Ihnen gerne <a href="/contact">Tamara Reginster</a>

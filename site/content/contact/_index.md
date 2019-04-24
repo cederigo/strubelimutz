@@ -9,7 +9,7 @@ contact_entries:
   - heading: Kontakt Innenspielgruppe / Mittagstisch
     text: "Eva Aeschlimann, Tannackerstrasse 55, 3073 Gümligen, Telefon 031 951 94 45"
   - heading: Kontakt Waldspielgruppe
-    text: "Tamara Zbinden, Telefon 079 771 48 64"
+    text: "Tamara Reginster, Telefon 079 771 48 64"
   - heading: Kontakt Erlebnisnachmittag
     text: "Michaela Jordi, Oberholzweg 12, 3067 Boll, Telefon 076 329 85 17"
   - heading: Natel Strubelimutz (nur für dringende Fälle)
