@@ -4,6 +4,10 @@
   color: var(--primary);
 }
 
+.primary-light {
+  color: var(--primary-light);
+}
+
 .highlight {
   color: var(--highlight);
 }

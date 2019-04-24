@@ -3,19 +3,6 @@ title: Über uns
 image: /img/about-jumbotron.jpg
 ---
 
-## Werte und Ziele
-
-Getreu unserem Motto «Spass für Klein und Gross» steht das Kind mit seinen
-Bedürfnissen nach Spiel, Bewegung, Entdeckungsdrang, Abenteuer und
-Geborgenheit. Viel Raum zum freien, kreativen Spielen und Gestalten gehen Hand in
-Hand mit klaren Grenzen und Regeln. Sich behaupten, Rücksicht nehmen, sich
-gegenseitig mit Stärken und Schwächen akzeptieren, aufeinander hören, aber auch
-streiten und Frieden schliessen gehören zum Alltag.
-Kinder wollen tätig sein und nicht beschäftigt werden. Im Strubelimutz werden die
-Kinder in ihrem Vorhaben ermutigt und erhalten Anreize für eigene Erfahrungen.
-Spielen, Werken und Gestalten ohne feste Vorgaben bedeutet auch, nach eigenen
-Fähigkeiten, nach individuellem Entwicklungsstand zu arbeiten.
-
 ## Verein
 
 Mehr als 35 Jahre «Spielgruppe Strubelimutz»
@@ -31,6 +18,19 @@ Sonnenweg 44 ein und bauten unsere Angebotsvielfalt stetig aus, so führten wir 
 Jahre 2003 die Waldspielgruppe sowie unseren Mittagstisch ein. Im Jahr 2016
 durften wir unser Angebot um die beiden Erlebnisnachmittage erweitern.
 
+## Werte und Ziele
+
+Getreu unserem Motto «Spass für Klein und Gross» steht das Kind mit seinen
+Bedürfnissen nach Spiel, Bewegung, Entdeckungsdrang, Abenteuer und
+Geborgenheit. Viel Raum zum freien, kreativen Spielen und Gestalten gehen Hand in
+Hand mit klaren Grenzen und Regeln. Sich behaupten, Rücksicht nehmen, sich
+gegenseitig mit Stärken und Schwächen akzeptieren, aufeinander hören, aber auch
+streiten und Frieden schliessen gehören zum Alltag.
+Kinder wollen tätig sein und nicht beschäftigt werden. Im Strubelimutz werden die
+Kinder in ihrem Vorhaben ermutigt und erhalten Anreize für eigene Erfahrungen.
+Spielen, Werken und Gestalten ohne feste Vorgaben bedeutet auch, nach eigenen
+Fähigkeiten, nach individuellem Entwicklungsstand zu arbeiten.
+
 ## Räumlichkeiten
 
 Unsere grosszügigen Räumlichkeiten, der weitläufige Garten und die reiche
@@ -45,17 +45,3 @@ Moosflächen, den verwunschenen Trampelpfaden und dem gemütlichen Waldsofa
 ein spannendes und spielerisches Umfeld für Klein und Gross, um unterhaltsame,
 entdeckungsreiche, abenteuerliche und bewegungsreiche Stunden in der Natur zu
 erleben.
-
-## Feste feiern - Raumvermietung {#raumvermietung}
-
-Feiern Sie ein Fest und suchen nach Räumlichkeiten, welche für Klein und Gross
-geeignet sind? Dann mieten Sie unsere Lokalität, welche mit Küche, grosszügigen
-Räumlichkeiten sowie einem weitläufigen Garten die ideale Umgebung für einen
-Kindergeburtstag, ein Familienfest oder auch einfach für ein gemütliches
-Beisammensein von Freunden bietet.
-
-- Kosten für einen Nachmittag CHF 40.—
-- Kosten für einen ganzen Tag CHF 80.—
-- Kosten für das Wochenende CHF 110.—
-
-Weitere Auskünfte erteilt Ihnen gerne <a href="/contact">Eva Aeschlimann</a>

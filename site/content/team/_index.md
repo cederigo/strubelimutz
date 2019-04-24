@@ -1,14 +1,13 @@
 ---
 title: Team
-image: /img/about-jumbotron.jpg
+image: /img/wald.jpg
 blurb:
   heading: Wer wir sind.
   text: >-
     Liebevolle und kompetente Betreuung, die sich durch Fachkenntnis und
     Erfahrung auszeichnen. Unsere Kinder im Strubelimutz werden ausschliesslich
     von ausgebildeten SpielgruppenleiterInnen, Waldspielgruppenleiterinnen und
-    Waldpädagogen betreut. Ergänzt wird das Team auch immer wieder von
-    SpielgruppenleiterInnen in Ausbildung.
+    Waldpädagogen betreut.
 portraits:
   - heading: Eva Aeschlimann
     imageUrl: /img/portraits/eva.jpg

@@ -1,15 +1,15 @@
 ---
 title: Erlebnisnachmittag
-image: /img/about-jumbotron.jpg
+image: /img/feldstecher2.jpg
 ---
 
-## Erlebnisnachmittag für Kindergärteler und Grosse
+## Erlebnisnachmittag für Kinder ab 4 Jahren
 
 Kindergärteler:
 
 Einmal pro Monat, von 14.15 – 17.15 Uhr (Mittwoch Nachmittag). Daten: 29.08.18, 19.09.18, 31.10.18, 21.11.18, 19.12.18, 30.01.19, 20.02.19, 20.03.19, 08.05.19, 19.06.19
 
-Grosse:
+Schüler 1. bis 3. Klasse:
 
 Einmal pro Monat, von 14.15 bis 17.15 Uhr (Freitag Nachmittag). Daten: 24.08.18, 14.09.18, 19.10.18, 16.11.18, 14.12.18, 11.01.19, 15.02.19, 29.03.19, 03.05.19, 14.06.19
 

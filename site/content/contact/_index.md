@@ -1,6 +1,7 @@
 ---
 title: "Kontakt"
-logo: "/img/strubelimutz.gif"
+subtitle: Wir freuen uns über deine Kontaktaufnahme!
+image: /img/wald.jpg
 email: mail@strubelimutz.ch
 contact_entries:
   - heading: Adresse
@@ -16,3 +17,5 @@ contact_entries:
 ---
 
 Wir freuen uns über deine Kontaktaufnahme!
+
+<a href="/doc/situationsplan.pdf" target="_blank">Situationsplan</a>

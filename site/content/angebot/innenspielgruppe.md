@@ -1,11 +1,11 @@
 ---
 title: Innenspielgruppe
-image: /img/about-jumbotron.jpg
+image: /img/spielzeuge.jpg
 ---
 
 ## Innenspielgruppe für Kinder ab 2 Jahren
 
-Montag, Dienstag, Donnerstag\* und Freitag, jeweils 8.00 – 12.00 Uhr
+Montag, Dienstag, Donnerstag\* und Freitag, jeweils 8.00 – 12.00 Uhr.
 Die Zeit ist frei wählbar. Blockzeiten: 9.00 Uhr – 11.00 Uhr
 
 \* Bei grosser Nachfrage haben Anmeldungen mit Mittagstisch Vorrang.
@@ -44,7 +44,7 @@ ab 2 Jahren willkommen, Abweichungen davon sind nach
 Rücksprache möglich. Die Betreuung erfolgt durch zwei
 ausgebildete und erfahrene Spielgruppenleiterinnen.
 
-### Kleine Kinder sind grosse Geniesser!
+<!-- ### Kleine Kinder sind grosse Geniesser!
 
 Jeweils donnerstags können unsere Kleinen von 12 bis 14 Uhr ein leckeres,
 gesundes, abwechslungsreiches und selbstgekochtes Mittagessen geniessen und
@@ -54,6 +54,6 @@ und Anrichten mithelfen.
 Nach dem Essen haben die Kinder Gelegenheit, sich auszuruhen. Sie schauen sich
 Bücher an, hören Geschichten, singen oder spielen ruhig miteinander. Nach der
 Ruhepause haben die Kinder Gelegenheit, noch einmal ausgiebig miteinander zu
-spielen und lachen.
+spielen und lachen. -->
 
 Weitere Auskünfte erteilt Ihnen gerne <a href="/contact">Eva Aeschlimann</a>
