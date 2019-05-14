@@ -57,9 +57,7 @@ portraits:
           - Medizinische Praxisassistentin
           - Spielgruppenleiterin
           - Waldspielgruppenleiterin
-    text: >
-      Die Fantasie soll angeregt werden.  Es ist wunderbar zu sehen, wie die
-      Kinder «ohne Spielsachen» einen ganzen Morgen im Wald verbringen.
+    text: 'Kinder wollen tätig sein, nicht beschäftigt werden.'
   - heading: Laura Widmer
     imageUrl: /img/portraits/laura.jpg
     sections:
