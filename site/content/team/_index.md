@@ -17,8 +17,8 @@ portraits:
           - Innenspielgruppe
       - heading: Berufliches
         list:
-          - Ausbildung zur Arztgehilfin
-          - Ausbildung zur Spielgruppenleiterin
+          - Arztgehilfin
+          - Spielgruppenleiterin
           - Seit 10 Jahren Berufserfahrung mit Kindern
           - Hauptleiterin für Kinderturnen
           - >-
@@ -38,8 +38,8 @@ portraits:
       - heading: Berufliches
         list:
           - Kaufmännische Ausbildung
-          - Ausbildung zur Spielgruppenleiterin
-          - Spezialisierung zur Waldspielgruppenleiterin
+          - Spielgruppenleiterin
+          - Waldspielgruppenleiterin
           - Seit 20 Jahren Berufserfahrung mit Kindern
     text: >
       Die Arbeit läuft Dir nicht davon, wenn Du Deinem Kind den Regenbogen
@@ -55,8 +55,8 @@ portraits:
       - heading: Berufliches
         list:
           - Medizinische Praxisassistentin
-          - Ausbildung zur Spielgruppenleiterin
-          - Ausbildung zur Waldspielgruppenleiterin
+          - Spielgruppenleiterin
+          - Waldspielgruppenleiterin
     text: >
       Die Fantasie soll angeregt werden.  Es ist wunderbar zu sehen, wie die
       Kinder «ohne Spielsachen» einen ganzen Morgen im Wald verbringen.
