@@ -57,7 +57,11 @@ portraits:
           - Medizinische Praxisassistentin
           - Spielgruppenleiterin
           - Waldspielgruppenleiterin
-    text: 'Kinder wollen tätig sein, nicht beschäftigt werden.'
+    text: >-
+      Lass dich nicht unterkriegen, sei frech wild und wunderbar. 
+
+      Und dann braucht man ja auch noch Zeit, einfach nur dazusitzen und vor
+      sich hinzuschauen. A. Lindgren
   - heading: Laura Widmer
     imageUrl: /img/portraits/laura.jpg
     sections:
