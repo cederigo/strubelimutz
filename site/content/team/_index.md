@@ -83,16 +83,15 @@ portraits:
           - Erlebnisnachmittag
       - heading: Berufliches
         list:
+          - Waldpädagogin
           - Waldspielgruppenleiterin FSL
           - Personalfachfrau HFU
           - kaufm. Angestellte
           - regelmässige Kursbesuche «Notfälle bei Kleinkindern»
-          - >-
-            Mitarbeiterin Kita Burehus, Habstetten (Montag und Donnerstag, seit
-            2011)
+          - Leiterin der Aeschimutz-Waldangebote in Boll und Umgebung
     text: >
-      Lesen und vorlesen, malen, kochen und backen, draussen sein und auf Reisen
-      gehen!
+      In die Natur eintauchen, sie kennen lernen und geniessen... und dabei ganz
+      viele Glücksmomente sammeln.
   - heading: Regula Sommer
     imageUrl: /img/portraits/regula.jpg
     sections:
