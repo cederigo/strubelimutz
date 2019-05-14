@@ -7,6 +7,8 @@ image: /img/wald.jpg
 
 Mittwoch 8.45 – 11.45 Uhr (Zeit fix)
 
+Treffpunkt: Vor dem <a href="/contact">Strubelimutz</a>. Anschliessend gehen wir gemeinsam in den Hüenliwald.
+
 ### Kosten
 
 Die Kosten werden pro Quartal erhoben und betragen

@@ -5,6 +5,8 @@ image: /img/feldstecher2.jpg
 
 ## Erlebnisnachmittag für Kinder ab 4 Jahren
 
+Treffpunkt: Vor dem <a href="/contact">Strubelimutz</a>. Anschliessend gehen wir gemeinsam in den Hüenliwald.
+
 Kindergärteler:
 
 Einmal pro Monat, von 14.15 – 17.15 Uhr (Mittwoch Nachmittag). Daten: 29.08.18, 19.09.18, 31.10.18, 21.11.18, 19.12.18, 30.01.19, 20.02.19, 20.03.19, 08.05.19, 19.06.19
@@ -34,10 +36,6 @@ Passend zum jeweiligen Thema bereiten wir zusammen das Zvieri
 zu. Oftmals machen wir ein Feuer, backen uns eine Waldpizza
 oder bräteln.
 
-Der Erlebnisnachmittag findet einmal pro Monat, an einem
-Mittwoch Nachmittag von 14.15 bis 17.15 Uhr statt. Das Angebot
-richtet sich an Kinder ab 4 Jahren bis zum Schuleintritt.
-
 ### Erlebnisnachmittag für Grosse
 
 Der Wald bietet einen entspannenden Ausgleich zum Schulalltag
@@ -47,9 +45,5 @@ und geniessen. Wir sammeln, knoten, experimentieren, staunen
 und werken… je nach Saison und Wetter.
 Passend zum jeweiligen Thema bereiten wir ein gesundes zVieri
 zu. Auch Wasser und Tee nehmen die Leiterinnen mit.
-
-Der Erlebnisnachmittag für Grosse findet einmal pro Monat, an
-einem Freitag Nachmittag von 14.15 bis 17.15 Uhr statt. Das
-Angebot richtet sich an Kinder von der 1. bis 3. Klasse.
 
 Weitere Auskünfte erteilt Ihnen gerne <a href="/contact">Michaela Jordi</a>
