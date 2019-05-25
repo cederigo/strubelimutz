@@ -55,7 +55,7 @@ portraits:
       - heading: Berufliches
         list:
           - Waldspielgruppenleiterin
-          - Walspielgruppenleiterin
+          - Medizinische Praxisassistentin
           - seit 2011 beim Strubelimutz als Waldspielgruppenleiterin
     text: >-
       Lass dich nicht unterkriegen, sei frech wild und wunderbar. 
