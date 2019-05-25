@@ -71,8 +71,7 @@ portraits:
       - heading: Berufliches
         list:
           - Kauffrau
-          - Au Pair in den USA
-          - Betreuung dreier Kleinkinder
+          - Au Pair in den USA Betreuung dreier Kleinkinder
           - Teilzeitangestellte in der Wirtschafts- und Kaderschule Bern
           - seit 2017 im Strubelimutz als Waldspielgruppenleiterin
     text: >
