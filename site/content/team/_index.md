@@ -23,7 +23,7 @@ portraits:
           - >-
             Expertin des Turnverbands Bern Mittelland und des Schweizerischen
             Turnverbands J&S-Kids-Expertin
-          - Seit 1990 beim Strubelimutz als Innenspielgruppenleiterinn
+          - seit 1990 beim Strubelimutz als Innenspielgruppenleiterinn
     text: >
       Es macht mir enorm viel Spass und Freude, mit Kindern zusammenzuarbeiten,
       sie individuell zu unterstützen, zu motivieren, gemeinsam zu lachen und
@@ -40,7 +40,7 @@ portraits:
           - Kauffrau
           - Spielgruppenleiterin
           - Waldspielgruppenleiterin
-          - Seit 1990 beim Strubelimutz als Innenspielgruppenleiterin
+          - seit 1990 beim Strubelimutz als Innenspielgruppenleiterin
     text: >
       Die Arbeit läuft Dir nicht davon, wenn Du Deinem Kind den Regenbogen
       zeigst – aber der Regenbogen wartet nicht, bis Du mit der Arbeit fertig
@@ -56,7 +56,7 @@ portraits:
         list:
           - Waldspielgruppenleiterin
           - Walspielgruppenleiterin
-          - Seit 2011 beim Strubelimutz als Waldspielgruppenleiterin
+          - seit 2011 beim Strubelimutz als Waldspielgruppenleiterin
     text: >-
       Lass dich nicht unterkriegen, sei frech wild und wunderbar. 
 
@@ -74,7 +74,7 @@ portraits:
           - Au Pair in den USA
           - Betreuung dreier Kleinkinder
           - Teilzeitangestellte in der Wirtschafts- und Kaderschule Bern
-          - Seit 2017 im Strubelimutz als Waldspielgruppenleiterin
+          - seit 2017 im Strubelimutz als Waldspielgruppenleiterin
     text: >
       Entdecke den Wald jedes Mal aufs Neue und geniesse die Natur in vollen
       Zügen.
@@ -125,6 +125,7 @@ portraits:
           - >-
             Führen des eigenen Unternehmens mit verschiedenen Tochterfirmen im
             baunahen Bereich
+          - seit 2012 beim Strubelimutz als Präsidentin
     text: Kinder erfrischen das Leben und erfreuen das Herz. E. Schleiermacher
 ---
 
