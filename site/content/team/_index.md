@@ -55,8 +55,8 @@ portraits:
       - heading: Berufliches
         list:
           - Waldspielgruppenleiterin
-          - Walspielgruppenleiterin
-          - Seit 2011 beim Strubelimutz als Waldspielgruppenleiterin
+          - Medizinische Praxisassistentin
+          - seit 2011 beim Strubelimutz als Waldspielgruppenleiterin
     text: >-
       Lass dich nicht unterkriegen, sei frech wild und wunderbar. 
 
@@ -71,10 +71,9 @@ portraits:
       - heading: Berufliches
         list:
           - Kauffrau
-          - Au Pair in den USA
-          - Betreuung dreier Kleinkinder
+          - Au Pair in den USA Betreuung dreier Kleinkinder
           - Teilzeitangestellte in der Wirtschafts- und Kaderschule Bern
-          - Seit 2017 im Strubelimutz als Waldspielgruppenleiterin
+          - seit 2017 im Strubelimutz als Waldspielgruppenleiterin
     text: >
       Entdecke den Wald jedes Mal aufs Neue und geniesse die Natur in vollen
       Zügen.
