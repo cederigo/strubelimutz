@@ -1,6 +1,6 @@
 ---
 title: Waldspielgruppe
-image: /img/wald.jpg
+image: /img/spaziergang.jpg
 ---
 
 ## Waldspielgruppe für Kinder ab 3 Jahren

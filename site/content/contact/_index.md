@@ -1,7 +1,7 @@
 ---
 title: "Kontakt"
 subtitle: Wir freuen uns über deine Kontaktaufnahme!
-image: /img/wald.jpg
+image: /img/kontakt.jpg
 email: mail@strubelimutz.ch
 contact_entries:
   - heading: Adresse
@@ -12,8 +12,6 @@ contact_entries:
     text: "Tamara Reginster, Dorfgasse 7, 3096 Oberbalm, Telefon 079 771 48 64"
   - heading: Kontakt Erlebnisnachmittag
     text: "Michaela Jordi, Oberholzweg 12, 3067 Boll, Telefon 076 329 85 17"
-  - heading: Natel Strubelimutz (nur für dringende Fälle)
-    text: "079 284 77 26"
 ---
 
 Wir freuen uns über deine Kontaktaufnahme!

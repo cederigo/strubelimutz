@@ -2,15 +2,14 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
+{{ if .Params.news.displayed }}
 <div class="bg-off-white pv4">
     <div class="ph3 mw7 center">
-      <h2 class="f2 b lh-title mb2 primary-light">{{.Params.intro.heading}}</h2>
-      <p class="mb4 mw6">{{.Params.intro.text}}</p>
-      <div class="">
-        <a href="/angebot" class="btn raise">Mehr Infos</a>
-      </div>
+      <h2 class="f2 b lh-title mb2 primary-light">{{.Params.news.heading}}</h2>
+      <p class="mb2 mw6">{{.Params.news.text | safeHTML}}</p>
     </div>
-  </div>
+</div>
+{{ end }}
 
   <div class="bg-grey-1 pv4">
       <div class="ph3 mw7 center">
@@ -21,5 +20,15 @@
         </div>
       </div>
     </div>
+
+    <div class="bg-off-white pv4">
+      <div class="ph3 mw7 center">
+        <h2 class="f2 b lh-title mb2 primary-light">{{.Params.intro.heading}}</h2>
+        <p class="mb4 mw6">{{.Params.intro.text}}</p>
+        <div class="">
+          <a href="/angebot" class="btn raise">Mehr Infos</a>
+        </div>
+      </div>
+  </div>
 
 {{ end }}

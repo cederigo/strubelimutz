@@ -1,23 +1,20 @@
 ---
-title: Spass für klein und gross
+title: Spass für Klein und Gross
 image: /img/wald.jpg
 blurb:
   heading: Strubelimutz
   text: >-
     ...gute leute (team), xx Jahre Erfahrung und super Location.. kreativer Text
     in diese Richtung mir zukommen lassen ;-)
+news:
+  displayed: true
+  heading: Aktuelles
+  text: >-
+    <strong>10. Juni 2019</strong>
+    <p>Strubelimutz Ferienangebot für die Sommermonate Juli und August. Weitere Informationen findest du in unserem <a href="/doc/flyer_ferienangebot_19.pdf" target="_blank">Flyer</a>.</p>
 intro:
   heading: Unser Angebot
   text: Unser vielfältiges Angebot umfasst Innen- und Waldspielgruppe, sowie Erlebnisnachmittage für Kinder ab 2 Jahren bis und mit 3. Klasse. 
-# products:
-#   - image: /img/illustrations-meeting-space.svg
-#     text: >-
-#       Bild und Text für Innenspielgruppe. Kurz halten, für mehr Infos soll der 
-#       Benutzer auf "Unser Angebot" klicken.
-#   - image: /img/illustrations-coffee-gear.svg
-#     text: >-
-#       (Bild und Text) für Waldspielgruppe. Kurz halten, für mehr Infos soll der 
-#       Benutzer auf "Unser Angebot" klicken.
 team:
   heading: Unser Team
   image: /img/traktor.jpg

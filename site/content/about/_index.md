@@ -1,6 +1,6 @@
 ---
 title: Über uns
-image: /img/about-jumbotron.jpg
+image: /img/waldbild.jpg
 ---
 
 ## Verein
