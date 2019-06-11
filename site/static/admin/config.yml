@@ -15,20 +15,20 @@ collections: # A list of collections the CMS should be able to edit
         name: 'home'
         fields:
           - { label: Titel, name: title, widget: string }
-          - { label: Untertitel, name: subtitle, widget: string }
           - { label: Bild, name: image, widget: image }
           - {
-              label: 'Werbetext',
-              name: blurb,
+              label: 'Aktuelles',
+              name: news,
               widget: object,
               fields:
                 [
+                  { label: 'Sichtbar', name: 'displayed', widget: boolean },
                   { label: 'Titel', name: 'heading', widget: string },
-                  { label: 'Text', name: 'text', widget: 'text' },
+                  { label: 'Text', name: 'text', widget: 'markdown' },
                 ],
             }
           - {
-              label: 'Intro',
+              label: 'Unser Angebot',
               name: intro,
               widget: object,
               fields:
@@ -38,24 +38,13 @@ collections: # A list of collections the CMS should be able to edit
                 ],
             }
           - {
-              label: 'Angebot',
-              name: products,
-              widget: list,
-              fields:
-                [
-                  { label: 'Text', name: 'text', widget: 'text' },
-                  { label: 'Bild', name: 'image', widget: 'image' },
-                ],
-            }
-          - {
-              label: 'Team',
-              name: 'values',
-              widget: 'object',
+              label: 'Unser Team',
+              name: team,
+              widget: object,
               fields:
                 [
                   { label: 'Titel', name: 'heading', widget: string },
                   { label: 'Text', name: 'text', widget: 'text' },
-                  { label: 'Bild', name: 'image', widget: 'image' },
                 ],
             }
       - file: 'site/content/team/_index.md'
