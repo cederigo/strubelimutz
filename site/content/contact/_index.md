@@ -6,11 +6,11 @@ email: mail@strubelimutz.ch
 contact_entries:
   - heading: Adresse
     text: "Spielgruppe Strubelimutz, Sonnenweg 44, 3073 Gümligen"
-  - heading: Kontakt Innenspielgruppe / Mittagstisch
+  - heading: Innenspielgruppe / Mittagstisch
     text: "Eva Aeschlimann, Tannackerstrasse 55, 3073 Gümligen, Telefon 031 951 94 45"
-  - heading: Kontakt Waldspielgruppe
+  - heading: Waldspielgruppe
     text: "Tamara Reginster, Dorfgasse 7, 3096 Oberbalm, Telefon 079 771 48 64"
-  - heading: Kontakt Erlebnisnachmittag
+  - heading: Erlebnisnachmittag
     text: "Michaela Jordi, Oberholzweg 12, 3067 Boll, Telefon 076 329 85 17"
 ---
 
