@@ -12,7 +12,7 @@ Kindergeburtstag, ein Familienfest oder auch einfach für ein gemütliches
 Beisammensein von Freunden bietet. 
 
 Oder suchen Sie einen Raum wo Sie Joga-, Tanz- oder Pilatesstunden anbieten können, 
-dann nehmen sie mit uns Kontakt auf.
+dann nehmen Sie mit uns Kontakt auf.
 
 - Kosten für einen Nachmittag CHF 40.—
 - Kosten für einen ganzen Tag CHF 80.—
