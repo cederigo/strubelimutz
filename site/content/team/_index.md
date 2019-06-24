@@ -1,6 +1,6 @@
 ---
 title: Team
-image: /img/wald.jpg
+image: /img/staeckebrot.jpg
 blurb:
   heading: Wer wir sind.
   text: >-

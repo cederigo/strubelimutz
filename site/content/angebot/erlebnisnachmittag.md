@@ -9,17 +9,17 @@ Treffpunkt: Vor dem <a href="/contact">Strubelimutz</a>. Anschliessend gehen wir
 
 Kindergärteler:
 
-Einmal pro Monat, von 14.15 – 17.15 Uhr (Mittwoch Nachmittag). Daten: 29.08.18, 19.09.18, 31.10.18, 21.11.18, 19.12.18, 30.01.19, 20.02.19, 20.03.19, 08.05.19, 19.06.19
+Einmal pro Monat, von 14.00 bis 17.00 Uhr (Mittwoch Nachmittag). Daten: 28.8.19, 18.9.19, 30.10.19, 27.11.19, 18.12.19, 29.1.20, 26.2.20, 25.3.20, 6.5.20, 17.6.20
 
 Schüler 1. bis 3. Klasse:
 
-Einmal pro Monat, von 14.15 bis 17.15 Uhr (Freitag Nachmittag). Daten: 24.08.18, 14.09.18, 19.10.18, 16.11.18, 14.12.18, 11.01.19, 15.02.19, 29.03.19, 03.05.19, 14.06.19
+Einmal pro Monat, von 14.00 bis 17.00 Uhr (Freitag Nachmittag). Daten: 30.8.19, 13.9.19, 25.10.19, 29.11.19, 13.12.19, 24.1.20, 21.2.20, 20.3.20, 8.5.20, 5.6.20
 
 ### Kosten
 
 Die Kosten werden pro Quartal erhoben und betragen
 
-- Fr. 35.– pro Vormittag, inkl. Znüüni
+- Fr. 35.– pro Nachmittag, inkl. Zvieri
 
 Geschwister erhalten eine Reduktion von 10%.
 Bei Abwesenheit wird kein Geld zurückerstattet.

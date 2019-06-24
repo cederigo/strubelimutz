@@ -1,6 +1,6 @@
 ---
 title: Über uns
-image: /img/waldbild.jpg
+image: /img/waldweg.jpg
 ---
 
 ## Verein
