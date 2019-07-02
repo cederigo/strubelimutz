@@ -85,3 +85,8 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+/* HACKS */
+html {
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+}
