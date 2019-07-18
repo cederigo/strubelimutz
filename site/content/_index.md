@@ -10,6 +10,8 @@ news:
   displayed: true
   heading: Aktuelles
   text: >-
+    <strong>18. Juli 2019</strong>
+    <p>Wir suchen per sofort ein/e Spielgruppenleiter/in für Donnerstag Vormittag. Haben wir Dein Interesse gewecht? Dann melde dich bei Nadia Lützelschwab. 079 277 12 27 oder strubelimutz@protonmail.ch</p>
     <strong>10. Juni 2019</strong>
     <p>Strubelimutz Ferienangebot für die Sommermonate Juli und August. Weitere Informationen findest du in unserem <a href="/doc/flyer_ferienangebot_19.pdf" target="_blank">Flyer</a>.</p>
 intro:
