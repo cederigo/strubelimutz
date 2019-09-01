@@ -9,8 +9,8 @@ blurb:
     ausgebildeten SpielgruppenleiterInnen, Waldspielgruppenleiterinnen und
     Waldpädagogen betreut.
 portraits:
-  - heading: ' '
-    imageUrl: /img/portraits/eva.jpg
+  - heading: Gabriele Wachter
+    imageUrl: /img/gabriele.jpg
     sections:
       - heading: Bereiche
         list:
