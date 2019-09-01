@@ -19,7 +19,7 @@ portraits:
         list:
           - Spielgruppenleiterin
           - Kindergärtnerin
-          - Seit 2019 beim Strubelimutz als Innenspielgruppenleiterin
+          - Seit 2019 beim Strubelimutz
     text: >
 
       „Die Aufgabe der Umgebung ist nicht, das Kind zu formen, sondern ihm zu
@@ -39,7 +39,7 @@ portraits:
           - Kauffrau
           - Au Pair in den USA Betreuung dreier Kleinkinder
           - Teilzeitangestellte in der Wirtschafts- und Kaderschule Bern
-          - seit 2017 im Strubelimutz als Waldspielgruppenleiterin
+          - Seit 2017 beim Strubelimutz
     text: >
       Entdecke den Wald jedes Mal aufs Neue und geniesse die Natur in vollen
       Zügen.
@@ -54,7 +54,7 @@ portraits:
         list:
           - Waldspielgruppenleiterin
           - Medizinische Praxisassistentin
-          - seit 2011 beim Strubelimutz als Waldspielgruppenleiterin
+          - Seit 2011 beim Strubelimutz
     text: >-
       Lass dich nicht unterkriegen, sei frech wild und wunderbar. 
 
@@ -74,7 +74,7 @@ portraits:
           - Kauffrau
           - regelmässige Kursbesuche «Notfälle bei Kleinkindern»
           - Leiterin der Aeschimutz-Waldangebote in Boll und Umgebung
-          - Seit 2015 beim Strubelimutz als Leiterin Erlebnisnachmittage
+          - Seit 2015 beim Strubelimutz
     text: >
       In die Natur eintauchen, sie kennen lernen und geniessen... und dabei ganz
       viele Glücksmomente sammeln.
@@ -89,7 +89,7 @@ portraits:
           - Waldspielgruppenleiterin
           - Familienfrau
           - Fachfrau Betreuung Kind
-          - Seit 2018 beim Strubelimutz als Leiterin Eerlebnisnachmittage
+          - Seit 2018 beim Strubelimutz
     text: >
       Achtsam der Natur in ihrer Vielfalt begegnen, miteinander eine
       unbeschwerte Zeit geniessen und viel zusammen lachen - ich freue mich auf
@@ -107,7 +107,7 @@ portraits:
           - >-
             Führen des eigenen Unternehmens mit verschiedenen Tochterfirmen im
             baunahen Bereich
-          - Seit 2012 beim Strubelimutz als Präsidentin
+          - Seit 2012 beim Strubelimutz
     text: Kinder erfrischen das Leben und erfreuen das Herz. E. Schleiermacher
 ---
 
