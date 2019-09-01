@@ -29,22 +29,6 @@ portraits:
       sie individuell zu unterstützen, zu motivieren, gemeinsam zu lachen und
       fröhlich zu sein. Das Vertrauen der Kinder sowie der Eltern zu gewinnen,
       ist eine tägliche Herausforderung und Genugtuung.
-  - heading: Rosmarie Kretz
-    imageUrl: /img/portraits/rosmarie.jpg
-    sections:
-      - heading: Bereiche
-        list:
-          - Innenspielgruppe
-      - heading: Berufliches
-        list:
-          - Kauffrau
-          - Spielgruppenleiterin
-          - Waldspielgruppenleiterin
-          - Seit 1993 beim Strubelimutz als Innenspielgruppenleiterin
-    text: >
-      Die Arbeit läuft Dir nicht davon, wenn Du Deinem Kind den Regenbogen
-      zeigst – aber der Regenbogen wartet nicht, bis Du mit der Arbeit fertig
-      bist.
   - heading: Tamara Reginster
     imageUrl: /img/portraits/tamara.jpg
     sections:
