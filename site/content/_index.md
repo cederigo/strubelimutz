@@ -6,8 +6,8 @@ news:
   heading: Aktuelles
   text: >-
     <strong>18. Juli 2019</strong> <p>Wir suchen per sofort ein/e
-    Spielgruppenleiter/in für Donnerstag Vormittag. Haben wir Dein Interesse
-    gewecht? Dann melde dich bei Nadia Lützelschwab. 079 277 12 27 oder
+    Spielgruppenleiter/in. Haben wir Dein Interesse
+    geweckt? Dann melde dich bei Nadia Lützelschwab. 079 277 12 27 oder
     strubelimutz@protonmail.ch</p>
 intro:
   heading: Unser Angebot
