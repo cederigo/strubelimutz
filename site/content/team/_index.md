@@ -29,6 +29,21 @@ portraits:
       sie individuell zu unterstützen, zu motivieren, gemeinsam zu lachen und
       fröhlich zu sein. Das Vertrauen der Kinder sowie der Eltern zu gewinnen,
       ist eine tägliche Herausforderung und Genugtuung.
+  - heading: Laura Widmer
+    imageUrl: /img/portraits/laura.jpg
+    sections:
+      - heading: Bereiche
+        list:
+          - Waldspielgruppe
+      - heading: Berufliches
+        list:
+          - Kauffrau
+          - Au Pair in den USA Betreuung dreier Kleinkinder
+          - Teilzeitangestellte in der Wirtschafts- und Kaderschule Bern
+          - seit 2017 im Strubelimutz als Waldspielgruppenleiterin
+    text: >
+      Entdecke den Wald jedes Mal aufs Neue und geniesse die Natur in vollen
+      Zügen.
   - heading: Tamara Reginster
     imageUrl: /img/portraits/tamara.jpg
     sections:
@@ -46,21 +61,6 @@ portraits:
 
       Und dann braucht man ja auch noch Zeit, einfach nur dazusitzen und vor
       sich hinzuschauen.     A. Lindgren
-  - heading: Laura Widmer
-    imageUrl: /img/portraits/laura.jpg
-    sections:
-      - heading: Bereiche
-        list:
-          - Waldspielgruppe
-      - heading: Berufliches
-        list:
-          - Kauffrau
-          - Au Pair in den USA Betreuung dreier Kleinkinder
-          - Teilzeitangestellte in der Wirtschafts- und Kaderschule Bern
-          - seit 2017 im Strubelimutz als Waldspielgruppenleiterin
-    text: >
-      Entdecke den Wald jedes Mal aufs Neue und geniesse die Natur in vollen
-      Zügen.
   - heading: Michaela Jordi
     imageUrl: /img/portraits/michaela.jpg
     sections:
