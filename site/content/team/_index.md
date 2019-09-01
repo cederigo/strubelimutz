@@ -9,7 +9,7 @@ blurb:
     ausgebildeten SpielgruppenleiterInnen, Waldspielgruppenleiterinnen und
     Waldpädagogen betreut.
 portraits:
-  - heading: Eva Aeschlimann
+  - heading: Gabriele Wachter
     imageUrl: /img/portraits/eva.jpg
     sections:
       - heading: Bereiche
@@ -17,18 +17,14 @@ portraits:
           - Innenspielgruppe
       - heading: Berufliches
         list:
-          - Medizinische Praxisassistentin
-          - Spielgruppenleiterin
-          - Hauptleiterin für Kinderturnen
-          - >-
-            Expertin des Turnverbands Bern Mittelland und des Schweizerischen
-            Turnverbands J&S-Kids-Expertin
-          - Seit 2003 beim Strubelimutz als Innenspielgruppenleiterinn
+          - ''
     text: >
-      Es macht mir enorm viel Spass und Freude, mit Kindern zusammenzuarbeiten,
-      sie individuell zu unterstützen, zu motivieren, gemeinsam zu lachen und
-      fröhlich zu sein. Das Vertrauen der Kinder sowie der Eltern zu gewinnen,
-      ist eine tägliche Herausforderung und Genugtuung.
+
+      „Die Aufgabe der Umgebung ist nicht, das Kind zu formen, sondern ihm zu
+      erlauben, sich zu offenbaren.“
+
+
+      (Maria Montessori)
   - heading: Laura Widmer
     imageUrl: /img/portraits/laura.jpg
     sections:
