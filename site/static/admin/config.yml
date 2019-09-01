@@ -83,7 +83,6 @@ collections: # A list of collections the CMS should be able to edit
         name: 'contact'
         label: 'Kontakt'
         fields:
-          - { label: Logo, name: logo, widget: image }
           - { label: Inhalt, name: body, widget: markdown }
           - label: Kontakt Einträge
             name: contact_entries
@@ -94,4 +93,4 @@ collections: # A list of collections the CMS should be able to edit
                 widget: string
               - label: Text
                 name: text
-                widget: text
+                widget: markdown
