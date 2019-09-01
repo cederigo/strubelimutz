@@ -17,7 +17,9 @@ portraits:
           - Innenspielgruppe
       - heading: Berufliches
         list:
-          - ''
+          - Spielgruppenleiterin
+          - Kindergärtnerin
+          - Seit 2019 beim Strubelimutz als Innenspielgruppenleiterin
     text: >
 
       „Die Aufgabe der Umgebung ist nicht, das Kind zu formen, sondern ihm zu
