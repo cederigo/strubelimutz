@@ -33,6 +33,7 @@ portraits:
       - heading: Bereiche
         list:
           - Waldspielgruppe
+          - Innenspielgruppe
       - heading: Berufliches
         list:
           - Kauffrau
