@@ -2,13 +2,9 @@
 title: Spass für Klein und Gross
 image: /img/wald.jpg
 news:
-  displayed: true
+  displayed: false
   heading: Aktuelles
-  text: >-
-    <strong>18. Juli 2019</strong> <p>Wir suchen per sofort ein/e
-    Spielgruppenleiter/in. Haben wir Dein Interesse
-    geweckt? Dann melde dich bei Nadia Lützelschwab. 079 277 12 27 oder
-    strubelimutz@protonmail.ch</p>
+  text: f
 intro:
   heading: Unser Angebot
   text: >-
