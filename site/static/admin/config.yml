@@ -83,6 +83,10 @@ collections: # A list of collections the CMS should be able to edit
         name: 'contact'
         label: 'Kontakt'
         fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Untertitel, name: subtitle, widget: string }
+          - { label: Bild, name: image, widget: image }
+          - { label: E-Mail, name: email, widget: string }
           - { label: Inhalt, name: body, widget: markdown }
           - label: Kontakt Einträge
             name: contact_entries
