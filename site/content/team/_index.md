@@ -68,7 +68,7 @@ portraits:
           - Erlebnisnachmittag
       - heading: Berufliches
         list:
-          - Waldpädagogin
+          - Naturpädagogin
           - Waldspielgruppenleiterin FSL
           - Personalfachfrau HFU
           - Kauffrau
