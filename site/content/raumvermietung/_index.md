@@ -18,7 +18,7 @@ dann nehmen Sie mit uns Kontakt auf.
 - Kosten für einen ganzen Tag CHF 80.—
 - Kosten für das Wochenende CHF 110.—
 
-Weitere Auskünfte erteilt Ihnen gerne <a href="/contact">Eva Aeschlimann</a>
+Kontaktiere uns für weitere Auskünfte. <a href="/contact">Kontakt</a>
 
 <img src="/img/spielplatz.jpg">
 <img src="/img/landi-tische.jpg">

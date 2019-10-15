@@ -29,9 +29,6 @@ Bei Abwesenheit wird kein Geld zurückerstattet.
 Innenspielgruppe und Malatelier mit viel Platz für freies Spiel und
 Kreativität
 
-
 Unsere grosszügigen, hellen Räumlichkeiten, der kindergerechte Garten und die reiche Angebotsvielfalt laden unsere Kleinen ein, fröhliche, abwechslungsreiche, kreative und spielerische Stunden mit uns zu verbringen. Wir malen eigene Kunstwerke, kleben, kneten und schneiden mit verschiedenen Materialien, hämmern und schrauben in unserer Werkstatt. Gemeinsam schneiden und kochen wir, entdecken die Jahreszeiten in unserem grossen Garten, lauschen Geschichten oder geniessen ganz einfach das freie Spiel.
 
-<
-
-Weitere Auskünfte erteilt Ihnen gerne <a href="/contact">Eva Aeschlimann</a>
+Kontaktiere uns für weitere Auskünfte. <a href="/contact">Kontakt</a>
