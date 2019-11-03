@@ -4,7 +4,9 @@ image: /img/wald.jpg
 news:
   displayed: false
   heading: Aktuelles
-  text: f
+  text: >-
+    Winterliches Lebkuchen dekorieren und HV am 30. November 2019 um 10.00 Uhr
+    im Strubelimutz
 intro:
   heading: Unser Angebot
   text: >-
