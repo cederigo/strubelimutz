@@ -36,6 +36,7 @@ portraits:
           - Innenspielgruppe
       - heading: Berufliches
         list:
+          - Spielgruppenleiterin
           - Kauffrau
           - Au Pair in den USA Betreuung dreier Kleinkinder
           - Teilzeitangestellte in der Wirtschafts- und Kaderschule Bern
@@ -43,6 +44,19 @@ portraits:
     text: >
       Entdecke den Wald jedes Mal aufs Neue und geniesse die Natur in vollen
       Zügen.
+  - heading: Franziska Bannert
+    imageUrl: /img/portraits/franziska.jpg
+    sections:
+      - heading: Bereiche
+        list:
+          - Innenspielgruppe
+      - heading: Berufliches
+        list:
+          - Spielgruppenleiterin
+          - Coiffeuse
+          - Seit 2019 beim Strubelimutz
+    text: >
+      Bleib neugierig wie ein Kind und du wirst dich an der Schönheit des Lebens nie satt sehen!
   - heading: Tamara Reginster
     imageUrl: /img/portraits/tamara.jpg
     sections:
