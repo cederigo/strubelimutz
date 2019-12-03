@@ -2,7 +2,7 @@
 title: Spass für Klein und Gross
 image: /img/wald.jpg
 news:
-  displayed: true
+  displayed: false
   heading: Aktuelles
   text: >-
     Winterliches Lebkuchen dekorieren und HV am 30. November 2019 um 10.00 Uhr
