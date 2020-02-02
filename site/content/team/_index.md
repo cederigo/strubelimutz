@@ -1,6 +1,6 @@
 ---
 title: Team
-image: /img/staeckebrot.jpg
+image: /img/team.jpg
 blurb:
   heading: Wer wir sind.
   text: >-

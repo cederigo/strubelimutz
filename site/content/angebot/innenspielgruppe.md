@@ -5,21 +5,14 @@ image: /img/spielzeuge.jpg
 
 ## Innenspielgruppe für Kinder ab 2 Jahren
 
-Montag, Dienstag, Donnerstag\* und Freitag, jeweils 8.00 – 12.00 Uhr.
+Montag, Dienstag, Donnerstag und Freitag, jeweils 8.00 – 12.00 Uhr.
 Die Zeit ist frei wählbar. Blockzeiten: 9.00 Uhr – 11.00 Uhr
-
-\* Bei grosser Nachfrage haben Anmeldungen mit Mittagstisch Vorrang.
-
-### Mittagstisch
-
-Donnerstag 12.00 – 14.00 Uhr.
 
 ### Kosten
 
 Die Kosten werden pro Quartal erhoben und betragen
 
 - Fr. 10.00 pro Stunde, inkl. Znüüni
-- Fr. 9.00 zusätzlich für das Mittagessen
 
 Geschwister erhalten eine Reduktion von 10%.
 Bei Abwesenheit wird kein Geld zurückerstattet.

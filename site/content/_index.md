@@ -2,11 +2,11 @@
 title: Spass für Klein und Gross
 image: /img/wald.jpg
 news:
-  displayed: false
+  displayed: true
   heading: Aktuelles
   text: >-
-    Winterliches Lebkuchen dekorieren und HV am 30. November 2019 um 10.00 Uhr
-    im Strubelimutz
+    <strong>Tag der offenen Tür</strong> am Samstag 25. April von 10 - 12 Uhr. Es ist keine Anmeldung notwendig.<p></p>
+    <strong>Frühlingsfest</strong> am Freitag 8. Mai ab 14 Uhr. Hier geht es zur <a target="_blank" href="/doc/anmeldung_fruehlingsfest_20.pdf">Anmeldung.</a>
 intro:
   heading: Unser Angebot
   text: >-

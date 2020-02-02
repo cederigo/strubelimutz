@@ -9,7 +9,7 @@ blurb:
     Waldspielgruppe oder am Erlebnisnachmittag. Ganz getreu unserem
     Leitsatz «Spass für klein und gross»!
 values:
-  - heading: Innenspielgruppe & Mittagstisch
+  - heading: Innenspielgruppe
     imageUrl: /img/spielzeuge-orig.jpg
     buttonLink: "/angebot/innenspielgruppe"
     text: >

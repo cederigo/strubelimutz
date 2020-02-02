@@ -6,7 +6,7 @@ email: strubelimutz@protonmail.ch
 contact_entries:
   - heading: Adresse
     text: 'Spielgruppe Strubelimutz, Sonnenweg 44, 3073 Gümligen'
-  - heading: Innenspielgruppe / Mittagstisch
+  - heading: Innenspielgruppe
     text: |-
       Gabriele Wachter, Längimoosstrasse 3, 3075 Rüfenacht, 078 949 00 52
       <br>
