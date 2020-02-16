@@ -5,7 +5,7 @@ image: /img/spielzeuge.jpg
 
 ## Innenspielgruppe für Kinder ab 2 Jahren
 
-Montag, Dienstag, Donnerstag und Freitag, jeweils 8.00 – 12.00 Uhr.
+Montag, Dienstag, Donnerstag und Freitag, jeweils 8.30 – 12.00 Uhr.
 Die Zeit ist frei wählbar. Blockzeiten: 9.00 Uhr – 11.00 Uhr
 
 ### Kosten
