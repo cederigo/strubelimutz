@@ -5,8 +5,8 @@ news:
   displayed: true
   heading: Aktuelles
   text: >-
-    <strong>Corona</strong> Auch uns trifft es. Der Strubeli bleibt bis am <strong>4. April</strong> geschlossen.<p></p>
-    <strong>Tag der offenen Tür</strong> am Samstag 25. April von 10 - 12 Uhr. Es ist keine Anmeldung notwendig.
+    <strong>Corona</strong> Auch uns trifft es. Der Strubeli bleibt bis auf weiteres geschlossen.<p></p>
+    <strong>Abgesagt: Tag der offenen Tür</strong> am Samstag 25. April von 10 - 12 Uhr. Es ist keine Anmeldung notwendig.
     <a target="_blank" href="/doc/flyer_tag_der_offenen_tuer_20.pdf">Flyer</a><p></p>
     <strong>Frühlingsfest</strong> am Freitag 8. Mai ab 14 Uhr. Hier geht es zur <a target="_blank" href="/doc/anmeldung_fruehlingsfest_20.pdf">Anmeldung.</a>
 intro:
