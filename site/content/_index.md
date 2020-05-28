@@ -4,11 +4,7 @@ image: /img/wald.jpg
 news:
   displayed: true
   heading: Aktuelles
-  text: >-
-    Ab dem <strong>11.Mai</strong> ist der Strubelimutz wieder offen. Wir freuen uns!<p></p>
-    <strong>Abgesagt: Tag der offenen Tür</strong> am Samstag 25. April von 10 - 12 Uhr. Es ist keine Anmeldung notwendig.
-    <a target="_blank" href="/doc/flyer_tag_der_offenen_tuer_20.pdf">Flyer</a><p></p>
-    <strong>Abgesagt: Frühlingsfest</strong> am Freitag 8. Mai ab 14 Uhr. Hier geht es zur <a target="_blank" href="/doc/anmeldung_fruehlingsfest_20.pdf">Anmeldung.</a>
+  text: ' <strong>Es hat noch freie Plätze für das Schuhljahr 2020/2021</strong><p></p>Ab dem <strong>11.Mai</strong> ist der Strubelimutz wieder offen. Wir freuen uns!'
 intro:
   heading: Unser Angebot
   text: >-
