@@ -7,9 +7,7 @@ contact_entries:
   - heading: Adresse
     text: 'Spielgruppe Strubelimutz, Sonnenweg 44, 3073 Gümligen'
   - heading: Innenspielgruppe
-    text: |-
-      Gabriele Wachter, 078 949 00 52 <br> Laura Widmer, 079 543 58 50
-      <br> Franziska Bannert, 076 469 89 91
+    text: 'Franziska Bannert, 076 469 89 91'
   - heading: Waldspielgruppe
     text: 'Tamara Reginster, 079 771 48 64'
   - heading: Erlebnisnachmittag
