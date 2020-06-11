@@ -4,7 +4,9 @@ image: /img/wald.jpg
 news:
   displayed: true
   heading: Aktuelles
-  text: ' <strong>Es hat noch freie Plätze für das Schuljahr 2020/2021!</strong><p></p>Ab dem <strong>11.Mai</strong> ist der Strubelimutz wieder offen. Wir freuen uns!'
+  text: >-
+    Sommerferienangebot im Strubelimutz. Zur <a href="/doc/flyer_ferienangebot_20.pdf" target="_blank">Anmeldung</a><p></p>
+    <strong>Es hat noch freie Plätze für das Schuljahr 2020/2021!</strong><p></p>
 intro:
   heading: Unser Angebot
   text: >-
