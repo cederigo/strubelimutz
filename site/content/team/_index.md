@@ -9,41 +9,6 @@ blurb:
     ausgebildeten SpielgruppenleiterInnen, Waldspielgruppenleiterinnen und
     Waldpädagogen betreut.
 portraits:
-  - heading: Gabriele Wachter
-    imageUrl: /img/gabriele.jpg
-    sections:
-      - heading: Bereiche
-        list:
-          - Innenspielgruppe
-      - heading: Berufliches
-        list:
-          - Spielgruppenleiterin
-          - Kindergärtnerin
-          - Seit 2019 beim Strubelimutz
-    text: >
-
-      „Die Aufgabe der Umgebung ist nicht, das Kind zu formen, sondern ihm zu
-      erlauben, sich zu offenbaren.“
-
-
-      (Maria Montessori)
-  - heading: Laura Widmer
-    imageUrl: /img/portraits/laura.jpg
-    sections:
-      - heading: Bereiche
-        list:
-          - Waldspielgruppe
-          - Innenspielgruppe
-      - heading: Berufliches
-        list:
-          - Spielgruppenleiterin
-          - Kauffrau
-          - Au Pair in den USA Betreuung dreier Kleinkinder
-          - Teilzeitangestellte in der Wirtschafts- und Kaderschule Bern
-          - Seit 2017 beim Strubelimutz
-    text: >
-      Entdecke den Wald jedes Mal aufs Neue und geniesse die Natur in vollen
-      Zügen.
   - heading: Franziska Bannert
     imageUrl: /img/portraits/franziska.jpg
     sections:
@@ -56,7 +21,8 @@ portraits:
           - Coiffeuse
           - Seit 2019 beim Strubelimutz
     text: >
-      Bleib neugierig wie ein Kind und du wirst dich an der Schönheit des Lebens nie satt sehen!
+      Bleib neugierig wie ein Kind und du wirst dich an der Schönheit des Lebens
+      nie satt sehen!
   - heading: Tamara Reginster
     imageUrl: /img/portraits/tamara.jpg
     sections:
