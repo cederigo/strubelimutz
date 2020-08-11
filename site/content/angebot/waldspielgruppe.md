@@ -5,7 +5,7 @@ image: /img/spaziergang.jpg
 
 ## Waldspielgruppe für Kinder ab 3 Jahren
 
-Mittwoch 8.45 – 11.45 Uhr (Zeit fix)
+Mittwoch 8.45 – 11.45 Uhr
 
 Treffpunkt: Vor dem <a href="/contact">Strubelimutz</a>. Anschliessend gehen wir gemeinsam in den Hüenliwald.
 
