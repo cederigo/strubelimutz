@@ -1,6 +1,6 @@
 ---
 title: Vermietung Räumlichkeiten
-image: /img/innen1.jpg
+image: /img/innen5.jpg
 ---
 
 ## Feste feiern - Raumvermietung {#raumvermietung}
@@ -20,9 +20,9 @@ dann nehmen Sie mit uns Kontakt auf.
 
 Kontaktiere uns für weitere Auskünfte. <a href="/contact">Kontakt</a>
 
+<img src="/img/innen5.jpg">
+<img src="/img/innen6.jpg">
+<img src="/img/innen3.jpg">
+<img src="/img/kueche.jpg">
 <img src="/img/spielplatz.jpg">
 <img src="/img/landi-tische.jpg">
-<img src="/img/kueche.jpg">
-<img src="/img/innen2.jpg">
-<img src="/img/innen3.jpg">
-<img src="/img/innen4.jpg">

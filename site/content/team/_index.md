@@ -1,6 +1,6 @@
 ---
 title: Team
-image: /img/team.jpg
+image: /img/team3.jpg
 blurb:
   heading: Wer wir sind.
   text: >-
@@ -23,6 +23,23 @@ portraits:
     text: >
       Bleib neugierig wie ein Kind und du wirst dich an der Schönheit des Lebens
       nie satt sehen!
+  - heading: Katharina Willi
+    imageUrl: /img/portraits/katharina.jpg
+    sections:
+      - heading: Bereiche
+        list:
+          - Innenspielgruppe
+      - heading: Berufliches
+        list:
+          - Kaufmännische Lehre
+          - Sozialarbeiterin FH
+          - Ausbildung zur Reittherapeutin und Reitpädagogin
+          - Sozialpädagogische Arbeit in Wohngruppen
+          - Kinderturnleiterin Schule Manuel
+          - Seit 2020 beim Strubelimutz
+    text: >
+      Die Neugierde der Kinder ist der Wissensdurst nach Erkenntnis, darum sollte man diese in
+      ihnen fördern und ermutigen. John Locke
   - heading: Tamara Reginster
     imageUrl: /img/portraits/tamara.jpg
     sections:
@@ -40,6 +57,18 @@ portraits:
 
       Und dann braucht man ja auch noch Zeit, einfach nur dazusitzen und vor
       sich hinzuschauen.     A. Lindgren
+  - heading: Gina Ritano
+    imageUrl: /img/portraits/gina.jpg
+    sections:
+      - heading: Bereiche
+        list:
+          - Waldspielgruppe
+      - heading: Berufliches
+        list:
+          - Kleinkindererzieherin
+          - Seit 2020 beim Strubelimutz
+    text: >
+      ...
   - heading: Michaela Jordi
     imageUrl: /img/portraits/michaela.jpg
     sections:
@@ -74,20 +103,31 @@ portraits:
       Achtsam der Natur in ihrer Vielfalt begegnen, miteinander eine
       unbeschwerte Zeit geniessen und viel zusammen lachen - ich freue mich auf
       viele spannende Erlebnisse.
-  - heading: Nadia Lützelschwab
-    imageUrl: /img/portraits/nadia.jpg
+  - heading: Manuel Widmer
+    imageUrl: /img/portraits/manuel.jpg
+    sections:
+      - heading: Bereiche
+        list:
+          - Erlebnisnachmittag riesengrosse Strubelis
+      - heading: Berufliches
+        list:
+          - Sportlehrer auf Gymnasial- und Berufsschulstufe; Unterrichtserfahrung auf allen Stufen
+          - Gleitschirmtandempilot
+          - Sitznachtwache Salem Spital
+          - Seit 2020 beim Strubelimutz
+    text: >
+      Ich freue mich, mit den Jungen im Wald zu sein und miteinander die Vielfalt des Lebendigen zu erfahren.
+  - heading: Andrea Heimgartner
+    imageUrl: /img/portraits/andrea.jpg
     sections:
       - heading: Bereiche
         list:
           - Präsidentin
       - heading: Berufliches
         list:
-          - Studium der Jurisprudenz
-          - Direktionadjunktin und Leiterin Direktionsstab
-          - >-
-            Führen des eigenen Unternehmens mit verschiedenen Tochterfirmen im
-            baunahen Bereich
-          - Seit 2012 beim Strubelimutz
-    text: Kinder erfrischen das Leben und erfreuen das Herz. E. Schleiermacher
+          - Dipl. Physiotherapeutin
+          - Seit 2020 beim Strubelimutz
+    text: >
+      Kinder sollen mehr spielen, als viele Kinder es heutzutage tun. Denn wenn man genügend spielt, solange man klein ist, trägt man Schätze mit sich herum, aus denen man später sein ganzes Leben schöpfen kann. A. Lindgren
 ---
 

@@ -18,6 +18,11 @@ Schüler 1. bis 3. Klasse:
 Einmal pro Monat, von 14.00 bis 17.00 Uhr (Freitag Nachmittag). Daten: 21.8., 18.9., 23.10., 27.11. und 18.12.2020
 29.1., 5.3., 9.4., 28.5. und 25.6.2021
 
+Schüler 4. bis 6. Klasse:
+
+Einmal pro Monat, von 14.00 bis 17.00 Uhr (Mittwoch Nachmittag). Daten: 9.9., 14.10., 11.11. und 09.12.2020
+13.1., 17.2., 24.3., 28.4., 26.5. und 23.6.2021
+
 ### Kosten
 
 Die Kosten werden pro Quartal erhoben und betragen
@@ -39,7 +44,7 @@ Passend zum jeweiligen Thema bereiten wir zusammen das Zvieri
 zu. Oftmals machen wir ein Feuer, backen uns eine Waldpizza
 oder bräteln.
 
-### Erlebnisnachmittag für Grosse
+### Erlebnisnachmittag für Grosse und Riesengrosse
 
 Der Wald bietet einen entspannenden Ausgleich zum Schulalltag
 und ist zugleich ein wunderbares Lernfeld. Wir gehen mit offenen

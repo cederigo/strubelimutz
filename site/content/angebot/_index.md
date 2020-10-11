@@ -19,7 +19,7 @@ values:
     buttonLink: "/angebot/waldspielgruppe"
     text: >
       Wir lauschen auf weichem Moos einer Geschichte, machen gemeinsam ein Feuer und haben viel Zeit für freies Spiel. 
-  - heading: Erlebnisnachmittag für Kindergärteler und Grosse
+  - heading: Erlebnisnachmittag für Kindergärteler, Grosse und Riesengrosse
     imageUrl: /img/feldstecher2.jpg
     buttonLink: "/angebot/erlebnisnachmittag"
     text: >
