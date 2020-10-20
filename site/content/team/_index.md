@@ -38,8 +38,8 @@ portraits:
           - Kinderturnleiterin Schule Manuel
           - Seit 2020 beim Strubelimutz
     text: >
-      Die Neugierde der Kinder ist der Wissensdurst nach Erkenntnis, darum sollte man diese in
-      ihnen fördern und ermutigen. John Locke
+      Die Neugierde der Kinder ist der Wissensdurst nach Erkenntnis, darum
+      sollte man diese in ihnen fördern und ermutigen. John Locke
   - heading: Tamara Reginster
     imageUrl: /img/portraits/tamara.jpg
     sections:
@@ -66,9 +66,13 @@ portraits:
       - heading: Berufliches
         list:
           - Kleinkindererzieherin
+          - Kinderyoga Lehrerin
+          - Tagesschule Betreuerin
+          - Prüfungsexpertin FaBe K
           - Seit 2020 beim Strubelimutz
     text: >
-      ...
+      Und am Ende des Tages sollen deine Füsse dreckig, deine Haare zerzaust und
+      deine Augen leuchtend sein.
   - heading: Michaela Jordi
     imageUrl: /img/portraits/michaela.jpg
     sections:
@@ -111,12 +115,15 @@ portraits:
           - Erlebnisnachmittag riesengrosse Strubelis
       - heading: Berufliches
         list:
-          - Sportlehrer auf Gymnasial- und Berufsschulstufe; Unterrichtserfahrung auf allen Stufen
+          - >-
+            Sportlehrer auf Gymnasial- und Berufsschulstufe;
+            Unterrichtserfahrung auf allen Stufen
           - Gleitschirmtandempilot
           - Sitznachtwache Salem Spital
           - Seit 2020 beim Strubelimutz
     text: >
-      Ich freue mich, mit den Jungen im Wald zu sein und miteinander die Vielfalt des Lebendigen zu erfahren.
+      Ich freue mich, mit den Jungen im Wald zu sein und miteinander die
+      Vielfalt des Lebendigen zu erfahren.
   - heading: Andrea Heimgartner
     imageUrl: /img/portraits/andrea.jpg
     sections:
@@ -128,6 +135,8 @@ portraits:
           - Dipl. Physiotherapeutin
           - Seit 2020 beim Strubelimutz
     text: >
-      Kinder sollen mehr spielen, als viele Kinder es heutzutage tun. Denn wenn man genügend spielt, solange man klein ist, trägt man Schätze mit sich herum, aus denen man später sein ganzes Leben schöpfen kann. A. Lindgren
+      Kinder sollen mehr spielen, als viele Kinder es heutzutage tun. Denn wenn
+      man genügend spielt, solange man klein ist, trägt man Schätze mit sich
+      herum, aus denen man später sein ganzes Leben schöpfen kann. A. Lindgren
 ---
 
