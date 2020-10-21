@@ -129,7 +129,7 @@ portraits:
     sections:
       - heading: Bereiche
         list:
-          - Präsidentin
+          - Vizepräsidentin
       - heading: Berufliches
         list:
           - Dipl. Physiotherapeutin
