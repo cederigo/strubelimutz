@@ -11,7 +11,14 @@ contact_entries:
   - heading: Waldspielgruppe
     text: 'Tamara Reginster, 079 771 48 64'
   - heading: Erlebnisnachmittag
-    text: 'Michaela Jordi, Oberholzweg 12, 3067 Boll, 076 329 85 17'
+    text: |-
+
+
+      <p>Klein ( Kindergarten) Tamara Reginster, 079 771 48 64<p>
+
+      <p>Gross ( 1.-3. Klasse) Regula Sommer, 078 617 71 06<p> 
+
+      <p>Riesen Gross (4.-6. Klasse) Manuel Widmer, 079 757 91 86<p>
 ---
 
 Wir freuen uns über deine Kontaktaufnahme!
