@@ -44,6 +44,8 @@ Passend zum jeweiligen Thema bereiten wir zusammen das Zvieri
 zu. Oftmals machen wir ein Feuer, backen uns eine Waldpizza
 oder bräteln.
 
+Weitere Auskünfte erteilen wir Ihnen gerne. <a href="/contact">Kontakt aufnehmen</a>
+
 ### Erlebnisnachmittag für Grosse und Riesengrosse
 
 Der Wald bietet einen entspannenden Ausgleich zum Schulalltag
@@ -54,4 +56,4 @@ und werken… je nach Saison und Wetter.
 Passend zum jeweiligen Thema bereiten wir ein gesundes zVieri
 zu. Auch Wasser und Tee nehmen die Leiterinnen mit.
 
-Weitere Auskünfte erteilt Ihnen gerne <a href="/contact">Michaela Jordi</a>
+Weitere Auskünfte erteilen wir Ihnen gerne. <a href="/contact">Kontakt aufnehmen</a>

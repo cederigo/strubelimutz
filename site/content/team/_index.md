@@ -73,24 +73,6 @@ portraits:
     text: >
       Und am Ende des Tages sollen deine Füsse dreckig, deine Haare zerzaust und
       deine Augen leuchtend sein.
-  - heading: Michaela Jordi
-    imageUrl: /img/portraits/michaela.jpg
-    sections:
-      - heading: Bereiche
-        list:
-          - Erlebnisnachmittag
-      - heading: Berufliches
-        list:
-          - Naturpädagogin
-          - Waldspielgruppenleiterin FSL
-          - Personalfachfrau HFU
-          - Kauffrau
-          - regelmässige Kursbesuche «Notfälle bei Kleinkindern»
-          - Leiterin der Aeschimutz-Waldangebote in Boll und Umgebung
-          - Seit 2015 beim Strubelimutz
-    text: >
-      In die Natur eintauchen, sie kennen lernen und geniessen... und dabei ganz
-      viele Glücksmomente sammeln.
   - heading: Regula Sommer
     imageUrl: /img/portraits/regula.jpg
     sections:
