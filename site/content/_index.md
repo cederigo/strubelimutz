@@ -4,7 +4,7 @@ image: /img/wald.jpg
 news:
   displayed: true
   heading: Aktuelles
-  text: ' <p>Gesucht: Strubelimutz Kassier/In. Bei Interesse bitte per E-Mail an strubelimutz@protonmail.ch melden</p> <p>Es hat noch freie Plätze für das Schuljahr 2020/2021</p>'
+  text: ' <p>Gesucht: Strubelimutz Präsident/in und  Kassier/In. Bei Interesse bitte per E-Mail an strubelimutz@protonmail.ch oder bei den Spielgruppenleiterinnen melden</p> <p> </p>'
 intro:
   heading: Unser Angebot
   text: >-
