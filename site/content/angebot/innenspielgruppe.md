@@ -5,13 +5,16 @@ image: /img/spielzeuge.jpg
 
 ## Innenspielgruppe für Kinder ab 2 Jahren
 
-Montag, Dienstag, Donnerstag und Freitag, jeweils 9.00 – 11.30 Uhr.
+Montag, Dienstag, Donnerstag und Freitag, jeweils 8.45 – 11.30 Uhr.
 
 ### Kosten
 
 Die Kosten werden pro Quartal erhoben und betragen
 
-- Fr. 10.00 pro Stunde, inkl. Znüüni
+- Fr. 28.– pro Vormittag, inkl. Znüüni
+
+Aus finanziellen Gründen muss kein Kind auf die Spielgruppe verzichten.
+Die Sozialberatung der Kirchgemeinde Muri Gümligen bietet hier Unterstützung, 079 228 92 11 oder 031 950 44 47.
 
 Geschwister erhalten eine Reduktion von 10%.
 Bei Abwesenheit wird kein Geld zurückerstattet.
