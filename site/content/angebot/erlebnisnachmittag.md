@@ -9,9 +9,8 @@ Treffpunkt: Vor dem <a href="/contact">Strubelimutz</a>. Anschliessend gehen wir
 
 Kindergärteler:
 
-Einmal pro Monat, von 14.00 bis 17.00 Uhr (Mittwoch Nachmittag). Daten: 26.8., 16.9., 21.10., 18.11. und 9.12.2020
-3.2., 3.3., 31.3., 5.5. und 9.6.2021
-
+Einmal pro Monat, von 14.00 bis 17.00 Uhr (Mittwoch Nachmittag). Daten: 25.8., 15.9., 20.10., 17.11. und 15.12.2021,
+19.1., 16.2., 30.3., 11.5. und 22.6.2022
 
 Schüler 1. bis 3. Klasse:
 
