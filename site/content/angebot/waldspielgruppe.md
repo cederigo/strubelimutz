@@ -13,7 +13,7 @@ Treffpunkt: Vor dem <a href="/contact">Strubelimutz</a>. Anschliessend gehen wir
 
 Die Kosten werden pro Quartal erhoben und betragen
 
-- Fr. 33.– pro Vormittag, inkl. Znüüni
+- Fr. 33.– pro Vormittag
 
 Aus finanziellen Gründen muss kein Kind auf die Spielgruppe verzichten.
 Die Sozialberatung der Kirchgemeinde Muri Gümligen bietet hier Unterstützung, 079 228 92 11 oder 031 950 44 47.
