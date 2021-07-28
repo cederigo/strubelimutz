@@ -5,11 +5,10 @@ news:
   displayed: true
   heading: Aktuelles
   text: >-
-    <b>Ferienprogramm für im Sommer findet NICHT statt. <a
-    href="/doc/flyer_ferienangebot_21.pdf" target="_blank">Flyer</a></b><p>Es
-    hat noch freie Plätze</p><p>Gesucht: Strubelimutz Präsident/in und 
+    <p style="font-weight: bold;">Es hat noch freie Plätze</p>
+    <p>Gesucht: Strubelimutz Präsident/in und 
     Kassier/In. Bei Interesse bitte per E-Mail an strubelimutz@protonmail.ch
-    oder bei den Spielgruppenleiterinnen melden</p> <p> </p>
+    oder bei den Spielgruppenleiterinnen melden</p>
 intro:
   heading: Unser Angebot
   text: >-

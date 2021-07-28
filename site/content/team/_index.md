@@ -45,6 +45,7 @@ portraits:
     sections:
       - heading: Bereiche
         list:
+          - Vorstand
           - Waldspielgruppe
           - Erlebnisnachmittag
       - heading: Berufliches
@@ -57,7 +58,7 @@ portraits:
 
       Und dann braucht man ja auch noch Zeit, einfach nur dazusitzen und vor
       sich hinzuschauen.     A. Lindgren
-  - heading: Gina Ritano
+  - heading: Gina Riitano
     imageUrl: /img/portraits/gina.jpg
     sections:
       - heading: Bereiche
@@ -73,22 +74,6 @@ portraits:
     text: >
       Und am Ende des Tages sollen deine Füsse dreckig, deine Haare zerzaust und
       deine Augen leuchtend sein.
-  - heading: Regula Sommer
-    imageUrl: /img/portraits/regula.jpg
-    sections:
-      - heading: Bereiche
-        list:
-          - Erlebnisnachmittag
-      - heading: Berufliches
-        list:
-          - Waldspielgruppenleiterin
-          - Familienfrau
-          - Fachfrau Betreuung Kind
-          - Seit 2018 beim Strubelimutz
-    text: >
-      Achtsam der Natur in ihrer Vielfalt begegnen, miteinander eine
-      unbeschwerte Zeit geniessen und viel zusammen lachen - ich freue mich auf
-      viele spannende Erlebnisse.
   - heading: Manuel Widmer
     imageUrl: /img/portraits/manuel.jpg
     sections:
@@ -109,9 +94,6 @@ portraits:
   - heading: Andrea Heimgartner
     imageUrl: /img/portraits/andrea.jpg
     sections:
-      - heading: Bereiche
-        list:
-          - Vizepräsidentin
       - heading: Berufliches
         list:
           - Dipl. Physiotherapeutin

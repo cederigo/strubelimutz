@@ -14,22 +14,19 @@ Einmal pro Monat, von 14.00 bis 17.00 Uhr (Mittwoch Nachmittag). Daten: 25.8., 
 
 Schüler 1. bis 3. Klasse:
 
-Einmal pro Monat, von 14.00 bis 17.00 Uhr (Freitag Nachmittag). Daten: 21.8., 18.9., 23.10., 27.11. und 18.12.2020
-29.1., 5.3., 9.4., 28.5. und 25.6.2021
+Einmal pro Monat, von 14.00 bis 17.00 Uhr (Freitag Nachmittag).<br>
+Daten: 24.9, 22.10, 26.11 und 17.12.2021 28.1, 25.2, 25.3, 29.4, 20.5 und 24.6.2022
 
 Schüler 4. bis 6. Klasse:
 
-Einmal pro Monat, von 14.00 bis 17.00 Uhr (Mittwoch Nachmittag). Daten: 9.9., 14.10., 11.11. und 09.12.2020
-13.1., 17.2., 24.3., 28.4., 26.5. und 23.6.2021
+Einmal pro Monat, von 14.00 bis 17.00 Uhr (Freitag Nachmittag).<br>
+Daten: 24.9, 22.10, 26.11 und 17.12.2021 28.1, 25.2, 25.3, 29.4, 20.5 und 24.6.2022
 
 ### Kosten
 
 Die Kosten werden pro Quartal erhoben und betragen
 
 - Fr. 35.– pro Nachmittag, inkl. Zvieri
-
-Geschwister erhalten eine Reduktion von 10%.
-Bei Abwesenheit wird kein Geld zurückerstattet.
 
 ### Erlebnisnachmittag für Kindergärteler
 

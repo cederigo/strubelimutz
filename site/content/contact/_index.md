@@ -16,7 +16,7 @@ contact_entries:
 
       <p>Klein (Kindergarten) Tamara Reginster, 079 771 48 64<p>
 
-      <p>Gross (1.-3. Klasse) Regula Sommer, 078 617 71 06<p> 
+      <p>Gross (1.-3. Klasse) Manuel Widmer, 079 757 91 86<p> 
 
       <p>Riesengross (4.-6. Klasse) Manuel Widmer, 079 757 91 86<p>
 ---
