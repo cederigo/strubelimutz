@@ -18,7 +18,6 @@ Die Kosten werden pro Quartal erhoben und betragen
 Aus finanziellen Gründen muss kein Kind auf die Spielgruppe verzichten.
 Die Sozialberatung der Kirchgemeinde Muri Gümligen bietet hier Unterstützung, 079 228 92 11 oder 031 950 44 47.
 
-Geschwister erhalten eine Reduktion von 10%.
 Bei Abwesenheit wird kein Geld zurückerstattet.
 
 ### Auf unserem gemütlichen Waldsofa Platz nehmen ...
