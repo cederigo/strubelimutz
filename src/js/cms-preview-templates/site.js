@@ -2,7 +2,7 @@ import React from 'react'
 
 import Jumbotron from './components/jumbotron'
 
-export default class AboutPreview extends React.Component {
+export default class SitePreview extends React.Component {
   render() {
     const { entry, getAsset, widgetFor } = this.props
 

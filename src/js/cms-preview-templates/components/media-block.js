@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 
-const MediaBlock = ({ heading, text, imageUrl, reverse, sections }) => {
+const MediaBlock = ({ heading, text, imageUrl, reverse, sections, moreInfoLink }) => {
   const imageContainerClassName = reverse ? 'ph3-m w-50-m' : 'ph3-m w-50-m order-last-m'
   return (
     <div className="flex-m mhn3-m mb4">
@@ -21,6 +21,9 @@ const MediaBlock = ({ heading, text, imageUrl, reverse, sections }) => {
             </ul>
           </div>
         ))}
+        {!!moreInfoLink && (
+          <a href={moreInfoLink} class="btn raise">Mehr Infos</a>
+        )}
       </div>
     </div>
   )
