@@ -4,24 +4,33 @@ image: /img/essen.jpg
 blurb:
   heading: Spass für klein und gross!
   text: >-
-    Unser vielfältiges Angebot richtet sich an Kinder ab 2 Jahren bis
-    und mit 3. Klasse. Verbringe fröhliche Stunden in unserer Innenspielgruppe, 
-    Waldspielgruppe oder am Erlebnisnachmittag. Ganz getreu unserem
-    Leitsatz «Spass für klein und gross»!
+    Unser vielfältiges Angebot richtet sich an Kinder ab 2 Jahren bis und mit 3.
+    Klasse. Verbringe fröhliche Stunden in unserer Innenspielgruppe, 
+    Waldspielgruppe oder am Erlebnisnachmittag. Ganz getreu unserem Leitsatz
+    «Spass für klein und gross»!
 values:
-  - heading: Innenspielgruppe
+  - buttonLink: /angebot/innenspielgruppe
+    heading: Innenspielgruppe
     imageUrl: /img/spielzeuge-orig.jpg
-    buttonLink: "/angebot/innenspielgruppe"
     text: >
-      Innenspielgruppe und Malatelier mit viel Platz für freies Spiel und Kreativität.
-  - heading: Waldspielgruppe
+      Innenspielgruppe und Malatelier mit viel Platz für freies Spiel und
+      Kreativität.
+  - buttonLink: /angebot/waldspielgruppe
+    heading: Waldspielgruppe
     imageUrl: /img/wald.jpg
-    buttonLink: "/angebot/waldspielgruppe"
     text: >
-      Wir lauschen auf weichem Moos einer Geschichte, machen gemeinsam ein Feuer und haben viel Zeit für freies Spiel. 
-  - heading: Erlebnisnachmittag für Kindergärteler, Grosse und Riesengrosse
+      Wir lauschen auf weichem Moos einer Geschichte, machen gemeinsam ein Feuer
+      und haben viel Zeit für freies Spiel. 
+  - heading: ELKI-Waldnachmittag
+    imageUrl: /img/dscf4412.jpg
+    text: >-
+      Zusammen mit Mama, Papa, Grossvati, Gotti oder einer anderen Bezugsperson
+      entdecken wir den Wald.
+  - buttonLink: /angebot/erlebnisnachmittag
+    heading: 'Erlebnisnachmittag für Kindergärteler, Grosse und Riesengrosse'
     imageUrl: /img/feldstecher2.jpg
-    buttonLink: "/angebot/erlebnisnachmittag"
     text: >
-      Wir geniessen Wald und Wiese, hören Geschichten, werkeln mit Naturmaterialien und knoten uns einen kleinen Seilpark.
+      Wir geniessen Wald und Wiese, hören Geschichten, werkeln mit
+      Naturmaterialien und knoten uns einen kleinen Seilpark.
 ---
+
