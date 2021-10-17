@@ -19,6 +19,8 @@ contact_entries:
       <p>Gross (1.-3. Klasse) Manuel Widmer, 079 757 91 86<p> 
 
       <p>Riesengross (4.-6. Klasse) Manuel Widmer, 079 757 91 86<p>
+  - heading: ELKI-Waldnachmittag
+    text: '<p>Anna Staub, 079 614 83 89<p>'
 ---
 
 Wir freuen uns über deine Kontaktaufnahme!
