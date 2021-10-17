@@ -10,6 +10,8 @@ contact_entries:
     text: 'Franziska Bannert, 076 469 89 91'
   - heading: Waldspielgruppe
     text: 'Tamara Reginster, 079 771 48 64'
+  - heading: ELKI-Waldnachmittag
+    text: '<p>Anna Staub, 079 614 83 89<p>'
   - heading: Erlebnisnachmittag
     text: |-
 
@@ -19,8 +21,6 @@ contact_entries:
       <p>Gross (1.-3. Klasse) Manuel Widmer, 079 757 91 86<p> 
 
       <p>Riesengross (4.-6. Klasse) Manuel Widmer, 079 757 91 86<p>
-  - heading: ELKI-Waldnachmittag
-    text: '<p>Anna Staub, 079 614 83 89<p>'
 ---
 
 Wir freuen uns über deine Kontaktaufnahme!
