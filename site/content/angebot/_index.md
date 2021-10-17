@@ -22,7 +22,8 @@ values:
       Wir lauschen auf weichem Moos einer Geschichte, machen gemeinsam ein Feuer
       und haben viel Zeit für freies Spiel. 
   - heading: ELKI-Waldnachmittag
-    imageUrl: /img/dscf4412.jpg
+    buttonLink: /angebot/elki-waldnachmittag
+    imageUrl: /img/elki.jpg
     text: >-
       Zusammen mit Mama, Papa, Grossvati, Gotti oder einer anderen Bezugsperson
       entdecken wir den Wald.

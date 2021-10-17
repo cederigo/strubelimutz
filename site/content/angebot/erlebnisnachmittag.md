@@ -24,9 +24,11 @@ Daten: 24.9, 22.10, 26.11 und 17.12.2021 28.1, 25.2, 25.3, 29.4, 20.5 und 24.6.2
 
 ### Kosten
 
-Die Kosten werden pro Quartal erhoben und betragen
+Die Kosten werden halbjährlich erhoben und betragen
 
 - Fr. 35.– pro Nachmittag, inkl. Zvieri
+
+Bei Abwesenheit wird kein Geld zurückerstattet.
 
 ### Erlebnisnachmittag für Kindergärteler
 
