@@ -1,6 +1,6 @@
 ---
 title: Team
-image: /img/team3.jpg
+image: /img/team4.jpg
 blurb:
   heading: Wer wir sind.
   text: >-
@@ -91,6 +91,20 @@ portraits:
     text: >
       Ich freue mich, mit den Jungen im Wald zu sein und miteinander die
       Vielfalt des Lebendigen zu erfahren.
+  - heading: Anna Staub
+    imageUrl: /img/portraits/anna.jpg
+    sections:
+      - heading: Bereiche
+        list:
+          - Elki
+      - heading: Berufliches
+        list:
+          - Primarlehrerin
+          - Aufbau Quartierarbeit und Anlaufstelle in Langenthal
+          - Mutter von zwei Mädchen
+          - Naturpädagogische Weiterbildung Waldkinder St. Gallen
+    text: >
+      Die Spielsachen der Natur, Äste, Steine, Erde, Lehm, Moos, Flechten, Tannzapfen, Nüsse und vieles Mehr bieten alles, was unsere Kinder brauchen um kreativ zu sein.
   - heading: Andrea Heimgartner
     imageUrl: /img/portraits/andrea.jpg
     sections:
