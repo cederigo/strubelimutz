@@ -9,18 +9,11 @@ Treffpunkt: Vor dem <a href="/contact">Strubelimutz</a>. Anschliessend gehen wir
 
 Kindergärteler:
 
-Einmal pro Monat, von 14.00 bis 17.00 Uhr (Mittwoch Nachmittag). Daten: 25.8., 15.9., 20.10., 17.11. und 15.12.2021,
-19.1., 16.2., 30.3., 11.5. und 22.6.2022
+Einmal pro Monat, von 13.30 bis 16.30 Uhr (Mittwoch Nachmittag). Daten: 24.8, 14.9, 26.10, 23.11, 14.12.2022, 18.1, 15.2, 15.3, 10.5, 14.6.2023
 
 Schüler 1. bis 3. Klasse:
 
-Einmal pro Monat, von 14.00 bis 17.00 Uhr (Freitag Nachmittag).<br>
-Daten: 24.9, 22.10, 26.11 und 17.12.2021 28.1, 25.2, 25.3, 29.4, 20.5 und 24.6.2022
-
-Schüler 4. bis 6. Klasse:
-
-Einmal pro Monat, von 14.00 bis 17.00 Uhr (Freitag Nachmittag).<br>
-Daten: 24.9, 22.10, 26.11 und 17.12.2021 28.1, 25.2, 25.3, 29.4, 20.5 und 24.6.2022
+Einmal pro Monat, von 13.30 bis 16.30 Uhr (Mittwoch Nachmittag). Daten: 24.8, 14.9, 26.10, 23.11, 14.12.2022, 18.1, 15.2, 15.3, 10.5, 14.6.2023
 
 ### Kosten
 
