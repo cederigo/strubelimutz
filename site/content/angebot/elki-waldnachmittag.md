@@ -5,17 +5,17 @@ image: /img/elki.jpg
 
 ## ELKI-Waldnachmittag für Kinder ab 1-3 Jahren
 
-Treffpunkt: Vor dem <a href="/contact">Strubelimutz</a>. Anschliessend gehen wir gemeinsam in den Hüenliwald.
+Treffpunkt: Spielweise beim Hüenliwald
 
-Alle zwei Wochen, von 14.30 bis 17.00 Uhr (Donnerstag Nachmittag)
+Einmal pro Monat, von 15.00 bis 17.15 Uhr (Freitag Nachmittag)
 
-Daten: 28.10., 11.11., 25.11., 9.12., 13.1., 27.1., 24.2., 10.3., 24.3., 7.4., 5.5., 19.5., 2.6., 16.6., 30.6
+Daten: 19.8, 16.9, 21.10, 18.11, 16.12.2022, 13.1, 3.2, 3.3, 31.3, 28.4, 26.5, 23.6.2023
 
 ### Kosten
 
-Die Kosten werden pro halbjährlich erhoben und betragen
+Du kannst dich für vier Nachmittage anmelden und bezahlen. Danach entscheidest du selbst ob du wieder ein Pass von vier Mal lösen willst.
 
-- Fr. 30.– pro Nachmittag, exkl. Zvieri
+- Fr. 25.– pro Nachmittag. Geschwister sind willkommen, + Fr. 3.- pro Kind. Zvieri nimmt jeder selber mit.
 
 Bei Abwesenheit wird kein Geld zurückerstattet.
 
