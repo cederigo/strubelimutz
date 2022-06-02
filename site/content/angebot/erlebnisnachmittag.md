@@ -2,7 +2,6 @@
 title: Erlebnisnachmittag
 image: /img/feldstecher2.jpg
 ---
-
 ## Erlebnisnachmittag für Kinder ab 4 Jahren
 
 Treffpunkt: Vor dem <a href="/contact">Strubelimutz</a>. Anschliessend gehen wir gemeinsam in den Hüenliwald.
@@ -11,7 +10,7 @@ Kindergärteler:
 
 Einmal pro Monat, von 13.30 bis 16.30 Uhr (Mittwoch Nachmittag). Daten: 24.8, 14.9, 26.10, 23.11, 14.12.2022, 18.1, 15.2, 15.3, 10.5, 14.6.2023
 
-Schüler 1. bis 3. Klasse:
+Schüler 1. bis 2. Klasse:
 
 Einmal pro Monat, von 13.30 bis 16.30 Uhr (Mittwoch Nachmittag). Daten: 24.8, 14.9, 26.10, 23.11, 14.12.2022, 18.1, 15.2, 15.3, 10.5, 14.6.2023
 
@@ -19,7 +18,7 @@ Einmal pro Monat, von 13.30 bis 16.30 Uhr (Mittwoch Nachmittag). Daten: 24.8, 1
 
 Die Kosten werden halbjährlich erhoben und betragen
 
-- Fr. 35.– pro Nachmittag, inkl. Zvieri
+* Fr. 35.– pro Nachmittag, inkl. Zvieri
 
 Bei Abwesenheit wird kein Geld zurückerstattet.
 
@@ -37,7 +36,7 @@ oder bräteln.
 
 Weitere Auskünfte erteilen wir Ihnen gerne. <a href="/contact">Kontakt aufnehmen</a>
 
-### Erlebnisnachmittag für Grosse und Riesengrosse
+### Erlebnisnachmittag für Grosse 
 
 Der Wald bietet einen entspannenden Ausgleich zum Schulalltag
 und ist zugleich ein wunderbares Lernfeld. Wir gehen mit offenen
