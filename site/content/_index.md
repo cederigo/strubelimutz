@@ -16,12 +16,12 @@ news:
     und Elrebnisnachmittagsplätze.</p>
 
     <p>Gesucht: Strubelimutz Präsident/in. Bei Interesse bitte per E-Mail an
-    strubelimutz@protonmail.ch oder bei den Spielgruppenleiterinnen. melden</p>
+    strubelimutz@protonmail.ch oder bei den Spielgruppenleiterinnen melden.</p>
 intro:
   heading: Unser Angebot
   text: >-
-    Unser vielfältiges Angebot umfasst Innen- und Waldspielgruppe, sowie
-    Erlebnisnachmittage für Kinder ab 2 Jahren bis und mit 3. Klasse.
+    Unser vielfältiges Angebot umfasst Waldspielgruppe, ElKi-Nachmittage sowie
+    Erlebnisnachmittage für Kinder ab 1 Jährig bis und mit 3. Klasse
 team:
   heading: Unser Team
   text: >-
