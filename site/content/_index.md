@@ -21,7 +21,7 @@ intro:
   heading: Unser Angebot
   text: >-
     Unser vielfältiges Angebot umfasst Waldspielgruppe, ElKi-Nachmittage sowie
-    Erlebnisnachmittage für Kinder ab 1 Jährig bis und mit 3. Klasse
+    Erlebnisnachmittage für Kinder ab 1 Jährig bis und mit 2. Klasse
 team:
   heading: Unser Team
   text: >-
