@@ -8,15 +8,15 @@ news:
     <p><span style="font-weight: bold;"></span> </p>
 
     <p><span style="font-weight: bold;">Per August 2022 </span> bieten wir nur
-    noch Waldangebote an.</p> Leider müssen wir die <p><span style="font-weight:
+    noch Waldangebote an.</p> Leider müssen wir die <span style="font-weight:
     bold;"></span><span style="font-weight: bold;">Innenspielgruppe</span> auf
     Grund Raumkündigung  schliessen.</p>
 
     <p style="font-weight: bold;">Es hat noch freie Waldspielgruppen-, ElKi-,
-    und Elrebnisnachmittagsplätze</p>
+    und Elrebnisnachmittagsplätze.</p>
 
     <p>Gesucht: Strubelimutz Präsident/in. Bei Interesse bitte per E-Mail an
-    strubelimutz@protonmail.ch oder bei den Spielgruppenleiterinnen melden</p>
+    strubelimutz@protonmail.ch oder bei den Spielgruppenleiterinnen. melden</p>
 intro:
   heading: Unser Angebot
   text: >-
