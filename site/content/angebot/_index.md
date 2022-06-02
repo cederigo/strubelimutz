@@ -4,7 +4,7 @@ image: /img/essen.jpg
 blurb:
   heading: Spass für klein und gross!
   text: >-
-    Unser vielfältiges Angebot richtet sich an Kinder ab 1 Jährig bis und mit 3.
+    Unser vielfältiges Angebot richtet sich an Kinder ab 1 Jährig bis und mit 2.
     Klasse. Verbringe fröhliche Stunden in unserer Waldspielgruppe,
     ElKI-Nachmittag oder am Erlebnisnachmittag. Ganz getreu unserem Leitsatz
     «Spass für klein und gross»!
@@ -22,7 +22,7 @@ values:
       Zusammen mit Mama, Papa, Grossvati, Gotti oder einer anderen Bezugsperson
       entdecken wir den Wald.
   - buttonLink: /angebot/erlebnisnachmittag
-    heading: 'Erlebnisnachmittag für Kindergärteler, Grosse und Riesengrosse'
+    heading: Erlebnisnachmittag für Kindergärteler und 1. - 2. Klasse
     imageUrl: /img/feldstecher2.jpg
     text: >
       Wir geniessen Wald und Wiese, hören Geschichten, werkeln mit
