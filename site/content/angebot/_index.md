@@ -4,25 +4,19 @@ image: /img/essen.jpg
 blurb:
   heading: Spass für klein und gross!
   text: >-
-    Unser vielfältiges Angebot richtet sich an Kinder ab 2 Jahren bis und mit 3.
-    Klasse. Verbringe fröhliche Stunden in unserer Innenspielgruppe, 
-    Waldspielgruppe oder am Erlebnisnachmittag. Ganz getreu unserem Leitsatz
+    Unser vielfältiges Angebot richtet sich an Kinder ab 1 Jährig bis und mit 3.
+    Klasse. Verbringe fröhliche Stunden in unserer Waldspielgruppe,
+    ElKI-Nachmittag oder am Erlebnisnachmittag. Ganz getreu unserem Leitsatz
     «Spass für klein und gross»!
 values:
-  - buttonLink: /angebot/innenspielgruppe
-    heading: Innenspielgruppe
-    imageUrl: /img/spielzeuge-orig.jpg
-    text: >
-      Innenspielgruppe und Malatelier mit viel Platz für freies Spiel und
-      Kreativität.
   - buttonLink: /angebot/waldspielgruppe
     heading: Waldspielgruppe
     imageUrl: /img/wald.jpg
     text: >
       Wir lauschen auf weichem Moos einer Geschichte, machen gemeinsam ein Feuer
       und haben viel Zeit für freies Spiel. 
-  - heading: ELKI-Waldnachmittag
-    buttonLink: /angebot/elki-waldnachmittag
+  - buttonLink: /angebot/elki-waldnachmittag
+    heading: ELKI-Waldnachmittag
     imageUrl: /img/elki.jpg
     text: >-
       Zusammen mit Mama, Papa, Grossvati, Gotti oder einer anderen Bezugsperson
