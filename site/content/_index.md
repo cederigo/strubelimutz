@@ -12,8 +12,8 @@ news:
     bold;"></span><span style="font-weight: bold;">Innenspielgruppe</span> auf
     Grund Raumkündigung  schliessen.</p>
 
-    <p style="font-weight: bold;">Es hat noch freie Waldspielgruppen-, ElKi-,
-    und Elrebnisnachmittagsplätze.</p>
+    <p style="font-weight: bold;">Es hat noch freie ElKi-, und
+    Elrebnisnachmittagsplätze.</p>
 
     <p>Gesucht: Strubelimutz Präsident/in. Bei Interesse bitte per E-Mail an
     strubelimutz@protonmail.ch oder bei den Spielgruppenleiterinnen melden.</p>
