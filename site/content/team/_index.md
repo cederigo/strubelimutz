@@ -63,7 +63,7 @@ portraits:
     sections:
       - heading: Bereiche
         list:
-          - Waldspielgruppe
+          - Erlebnisnachmittag
       - heading: Berufliches
         list:
           - Kleinkindererzieherin
@@ -97,6 +97,7 @@ portraits:
       - heading: Bereiche
         list:
           - Elki
+          - Waldspielgruppe
       - heading: Berufliches
         list:
           - Primarlehrerin
@@ -104,7 +105,9 @@ portraits:
           - Mutter von zwei Mädchen
           - Naturpädagogische Weiterbildung Waldkinder St. Gallen
     text: >
-      Die Spielsachen der Natur, Äste, Steine, Erde, Lehm, Moos, Flechten, Tannzapfen, Nüsse und vieles Mehr bieten alles, was unsere Kinder brauchen um kreativ zu sein.
+      Die Spielsachen der Natur, Äste, Steine, Erde, Lehm, Moos, Flechten,
+      Tannzapfen, Nüsse und vieles Mehr bieten alles, was unsere Kinder brauchen
+      um kreativ zu sein.
   - heading: Andrea Heimgartner
     imageUrl: /img/portraits/andrea.jpg
     sections:
