@@ -14,9 +14,6 @@ news:
 
     <p style="font-weight: bold;">Es hat noch freie ElKi-, und
     Elrebnisnachmittagsplätze.</p>
-
-    <p>Gesucht: Strubelimutz Präsident/in. Bei Interesse bitte per E-Mail an
-    strubelimutz@protonmail.ch oder bei den Spielgruppenleiterinnen melden.</p>
 intro:
   heading: Unser Angebot
   text: >-

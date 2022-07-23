@@ -10,13 +10,6 @@ collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
     label: 'Seiten'
     files:
-      - file: 'site/content/raumvermietung/_index.md'
-        name: 'raumvermietung'
-        label: 'Raumvermietung'
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Bild, name: image, widget: image }
-          - { label: Inhalt, name: body, widget: markdown }
       - file: 'site/content/angebot/_index.md'
         name: 'angebot'
         label: 'Angebot'

@@ -9,37 +9,6 @@ blurb:
     ausgebildeten SpielgruppenleiterInnen, Waldspielgruppenleiterinnen und
     Waldpädagogen betreut.
 portraits:
-  - heading: Franziska Bannert
-    imageUrl: /img/portraits/franziska.jpg
-    sections:
-      - heading: Bereiche
-        list:
-          - Innenspielgruppe
-      - heading: Berufliches
-        list:
-          - Spielgruppenleiterin
-          - Coiffeuse
-          - Seit 2019 beim Strubelimutz
-    text: >
-      Bleib neugierig wie ein Kind und du wirst dich an der Schönheit des Lebens
-      nie satt sehen!
-  - heading: Katharina Willi
-    imageUrl: /img/portraits/katharina.jpg
-    sections:
-      - heading: Bereiche
-        list:
-          - Innenspielgruppe
-      - heading: Berufliches
-        list:
-          - Kaufmännische Lehre
-          - Sozialarbeiterin FH
-          - Ausbildung zur Reittherapeutin und Reitpädagogin
-          - Sozialpädagogische Arbeit in Wohngruppen
-          - Kinderturnleiterin Schule Manuel
-          - Seit 2020 beim Strubelimutz
-    text: >
-      Die Neugierde der Kinder ist der Wissensdurst nach Erkenntnis, darum
-      sollte man diese in ihnen fördern und ermutigen. John Locke
   - heading: Tamara Reginster
     imageUrl: /img/portraits/tamara.jpg
     sections:
@@ -74,23 +43,6 @@ portraits:
     text: >
       Und am Ende des Tages sollen deine Füsse dreckig, deine Haare zerzaust und
       deine Augen leuchtend sein.
-  - heading: Manuel Widmer
-    imageUrl: /img/portraits/manuel.jpg
-    sections:
-      - heading: Bereiche
-        list:
-          - Erlebnisnachmittag riesengrosse Strubelis
-      - heading: Berufliches
-        list:
-          - >-
-            Sportlehrer auf Gymnasial- und Berufsschulstufe;
-            Unterrichtserfahrung auf allen Stufen
-          - Gleitschirmtandempilot
-          - Sitznachtwache Salem Spital
-          - Seit 2020 beim Strubelimutz
-    text: >
-      Ich freue mich, mit den Jungen im Wald zu sein und miteinander die
-      Vielfalt des Lebendigen zu erfahren.
   - heading: Anna Staub
     imageUrl: /img/portraits/anna.jpg
     sections:
