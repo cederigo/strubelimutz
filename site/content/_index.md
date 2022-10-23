@@ -11,9 +11,6 @@ news:
     noch Waldangebote an.</p> Leider müssen wir die <span style="font-weight:
     bold;"></span><span style="font-weight: bold;">Innenspielgruppe</span> auf
     Grund Raumkündigung  schliessen.</p>
-
-    <p style="font-weight: bold;">Es hat noch freie ElKi-, und
-    Elrebnisnachmittagsplätze.</p>
 intro:
   heading: Unser Angebot
   text: >-
