@@ -7,15 +7,15 @@ news:
   text: >-
     <p><span style="font-weight: bold;"></span> </p>
 
-    <p><span style="font-weight: bold;">Per August 2022 </span> bieten wir nur
-    noch Waldangebote an.</p> Leider müssen wir die <span style="font-weight:
-    bold;"></span><span style="font-weight: bold;">Innenspielgruppe</span> auf
-    Grund Raumkündigung  schliessen.</p>
+    <p><span style="font-weight: bold;">Es hat noch freie Waldspielgruppen- und
+    Erlebnisnachmittagsplätze ab August 2023.</span.></p> Leider müssen wir die
+    <span style="font-weight: bold;"></span><span style="font-weight:
+    bold;">Innenspielgruppe</span> auf Grund Raumkündigung  schliessen.</p>
 intro:
   heading: Unser Angebot
   text: >-
-    Unser vielfältiges Angebot umfasst Waldspielgruppe, ElKi-Nachmittage sowie
-    Erlebnisnachmittage für Kinder ab 1 Jährig bis und mit 2. Klasse
+    Unsere Waldangebote sind  Waldspielgruppe und Erlebnisnachmittage für Kinder
+    ab 2,5 Jährig bis und mit 2. Klasse
 team:
   heading: Unser Team
   text: >-
