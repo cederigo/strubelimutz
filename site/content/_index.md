@@ -14,8 +14,8 @@ news:
 intro:
   heading: Unser Angebot
   text: >-
-    Unsere Waldangebote sind  Waldspielgruppe und Erlebnisnachmittage für Kinder
-    ab 2,5 Jährig bis und mit 2. Klasse
+    Unsere Waldangebote, Waldspielgruppe und Erlebnisnachmittage für Kinder ab
+    2,5 Jährig bis und mit 2. Klasse
 team:
   heading: Unser Team
   text: >-
