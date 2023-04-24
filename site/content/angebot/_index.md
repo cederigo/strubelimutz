@@ -4,10 +4,9 @@ image: /img/essen.jpg
 blurb:
   heading: Spass für klein und gross!
   text: >-
-    Unser vielfältiges Angebot richtet sich an Kinder ab 1 Jährig bis und mit 2.
-    Klasse. Verbringe fröhliche Stunden in unserer Waldspielgruppe,
-    ElKI-Nachmittag oder am Erlebnisnachmittag. Ganz getreu unserem Leitsatz
-    «Spass für klein und gross»!
+    Unser Waldangebot richtet sich an Kinder ab 2,5 Jährig bis und mit 2.
+    Klasse. Verbringe fröhliche Stunden in unserer Waldspielgruppe oder im
+    Erlebnisnachmittag. 
 values:
   - buttonLink: /angebot/waldspielgruppe
     heading: Waldspielgruppe
