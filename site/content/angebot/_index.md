@@ -14,12 +14,6 @@ values:
     text: >
       Wir lauschen auf weichem Moos einer Geschichte, machen gemeinsam ein Feuer
       und haben viel Zeit für freies Spiel. 
-  - buttonLink: /angebot/elki-waldnachmittag
-    heading: ELKI-Waldnachmittag
-    imageUrl: /img/elki.jpg
-    text: >-
-      Zusammen mit Mama, Papa, Grossvati, Gotti oder einer anderen Bezugsperson
-      entdecken wir den Wald.
   - buttonLink: /angebot/erlebnisnachmittag
     heading: Erlebnisnachmittag für Kindergärteler und 1. - 2. Klasse
     imageUrl: /img/feldstecher2.jpg
