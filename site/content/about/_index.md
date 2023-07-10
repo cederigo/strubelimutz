@@ -2,7 +2,6 @@
 title: Über uns
 image: /img/waldweg.jpg
 ---
-
 ## Verein
 
 Mehr als 35 Jahre «Spielgruppe Strubelimutz»
@@ -18,6 +17,10 @@ Sonnenweg 44 ein und bauten unsere Angebotsvielfalt stetig aus, so führten wir 
 Jahre 2003 die Waldspielgruppe sowie unseren Mittagstisch ein. Im Jahr 2016
 durften wir unser Angebot um die beiden Erlebnisnachmittage erweitern.
 
+Leider mussten wir im 2022 die Innenspielgruppe schliessen.
+
+Ab August 2023 werden unsere Waldangebote vom Elternclub Muri-Gümligen angeboten.
+
 ## Werte und Ziele
 
 Getreu unserem Motto «Spass für Klein und Gross» steht das Kind mit seinen
@@ -31,17 +34,4 @@ Kinder in ihrem Vorhaben ermutigt und erhalten Anreize für eigene Erfahrungen.
 Spielen, Werken und Gestalten ohne feste Vorgaben bedeutet auch, nach eigenen
 Fähigkeiten, nach individuellem Entwicklungsstand zu arbeiten.
 
-## Räumlichkeiten
-
-Unsere grosszügigen Räumlichkeiten, der weitläufige Garten und die reiche
-Angebotsvielfalt sind auf die Bedürfnisse von Klein und Gross abgestimmt,
-getreu unserem Motto «Spass für Klein und Gross».
-
-Unsere grosszügigen und hellen Räumlichkeiten sowie der weitläufige Garten mit
-Sandkasten, Schaukel, Rutschbahn und Kletterturm laden Klein und Gross zum
-Spielen und Verweilen ein. Zudem liegt der Hüenliwald nur wenige Schritte von
-unserer Haustüre entfernt und bietet mit seiner Artenvielfalt, den wundervollen
-Moosflächen, den verwunschenen Trampelpfaden und dem gemütlichen Waldsofa
-ein spannendes und spielerisches Umfeld für Klein und Gross, um unterhaltsame,
-entdeckungsreiche, abenteuerliche und bewegungsreiche Stunden in der Natur zu
-erleben.
+##
