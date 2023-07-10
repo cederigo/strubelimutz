@@ -4,8 +4,8 @@ image: /img/essen.jpg
 blurb:
   heading: Spass für klein und gross!
   text: >-
-    Unser Waldangebot richtet sich an Kinder ab 2,5 Jährig bis und mit 2.
-    Klasse. Verbringe fröhliche Stunden in unserer Waldspielgruppe oder im
+    Unser Waldangebot richtet sich an Kinder ab 2,5 Jährig bis und ca 3. Klasse.
+    Verbringe fröhliche Stunden in unserer Waldspielgruppe oder im
     Erlebnisnachmittag. 
 values:
   - buttonLink: /angebot/waldspielgruppe
