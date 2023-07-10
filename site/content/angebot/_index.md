@@ -15,7 +15,7 @@ values:
       Wir lauschen auf weichem Moos einer Geschichte, machen gemeinsam ein Feuer
       und haben viel Zeit für freies Spiel. 
   - buttonLink: /angebot/erlebnisnachmittag
-    heading: Erlebnisnachmittag für Kindergärteler und 1. - 2. Klasse
+    heading: Erlebnisnachmittag für Kindergärteler und 1. - ca 3. Klasse
     imageUrl: /img/feldstecher2.jpg
     text: >
       Wir geniessen Wald und Wiese, hören Geschichten, werkeln mit
