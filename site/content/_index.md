@@ -7,10 +7,9 @@ news:
   text: >-
     <p><span style="font-weight: bold;"></span> </p>
 
-    <p><span style="font-weight: bold;">Es hat noch freie Waldspielgruppen- und
-    Erlebnisnachmittagsplätze ab August 2023.</span.></p> Leider müssen wir die
-    <span style="font-weight: bold;"></span><span style="font-weight:
-    bold;">Innenspielgruppe</span> auf Grund Raumkündigung  schliessen.</p>
+    <p><span style="font-weight: bold;">Ab August 2023 werden unsere
+    Waldangebote vom Strubelimutz neu über den Elternclub Muri-Gümligen
+    angeboten. Weitere Infos auf www.elternclub.ch.</span.></p> </p>
 intro:
   heading: Unser Angebot
   text: >-
