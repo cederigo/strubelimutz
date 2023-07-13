@@ -8,3 +8,4 @@
   from = "/*"
   to = "https://www.elternclub.ch/waldangebote-strubelimutz"
   status = 302 
+  force = true
