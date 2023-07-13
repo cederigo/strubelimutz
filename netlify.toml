@@ -4,3 +4,7 @@
 [build.environment]
   YARN_VERSION = "1.22.4"
   NODE_VERSION = "14.1.0"
+[[redirects]]
+  from = "/*"
+  to = "https://www.elternclub.ch/waldangebote-strubelimutz"
+  status = 302 
